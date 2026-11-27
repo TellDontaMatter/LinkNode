@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    {
+      "id": "processed_ProjectAlfa",
+      "group": 1
+    },
+    {
+      "id": "Project Alpha Overview",
+      "group": 2
+    },
+    {
+      "id": "Python Integration",
+      "group": 2
+    },
+    {
+      "id": "Local AI Implementation",
+      "group": 2
+    },
+    {
+      "id": "Automation Workflows",
+      "group": 2
+    },
+    {
+      "id": "Integration and Collaboration",
+      "group": 2
+    },
+    {
+      "id": "ProjectAlfa",
+      "group": 1
+    },
+    {
+      "id": "Project Alpha",
+      "group": 2
+    },
+    {
+      "id": "Python",
+      "group": 2
+    },
+    {
+      "id": "Local AI",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Project Alpha Overview"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Python Integration"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Local AI Implementation"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Automation Workflows"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Integration and Collaboration"
+    },
+    {
+      "source": "ProjectAlfa",
+      "target": "Project Alpha"
+    },
+    {
+      "source": "ProjectAlfa",
+      "target": "Python"
+    },
+    {
+      "source": "ProjectAlfa",
+      "target": "Local AI"
+    }
+  ]
+}
