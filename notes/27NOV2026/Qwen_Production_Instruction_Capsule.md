@@ -4,7 +4,8 @@
 You are an autonomous content producer and technical director. Your task is to ingest the source material and documentation from the provided local directory (`C:\LinkNode\notes` or target path) and automatically generate a complete, multi-tier video and media production package.
 
 ## Project Context
-- **Pipeline Architecture:** Local Python (`pathlib`, `re`, `json`, `urllib.request`) + Ollama (`qwen2.5:7b` on `localhost:11434`) parsing raw markdown notes (`[[ ]]` bidirectional links) into structured JSON knowledge graphs (`graph.json`) and interactive D3.js web visualizations (`index.html`).
+- **Pipeline Architecture:** Local Python (`app.py`: `pathlib`, `json`, `urllib.request`) reads every markdown note in `notes/` and sends each one to Ollama (`qwen2.5:7b` on `localhost:11434`), which returns the note's concepts and related topics as JSON. Those become the nodes and links in `graph.json`. Links come only from Qwen: there is NO `[[ ]]` wikilink parsing, NO markdown-link parsing and NO regex link parsing. The live page (`index.html`) draws the graph with the force-graph library (built on d3-force); `app.py` also writes a separate D3 v7 viewer to `output/Index.html`. `watch_linknode.py` rebuilds and publishes automatically when a note changes.
+- **Truth source:** Before writing any claim about what LinkNode does, check the LinkNode Truth Sheet in the Claude + Muse Workspace (Google Drive). If a feature is on its NOT BUILT list, do not mention it.
 - **Deployment & Version Control:** Local Git repositories on Windows with clean `.gitignore` rules (excluding `.crdownload`, large binaries/PDFs) deployed live via GitHub Pages (`telldontamatter.github.io/LinkNode`).
 - **Audio Production Format:** Voiceover narration scripts must include inline `[bracketed production notes]` for ElevenLabs pacing, tone, and pause cues, with code symbols spelled phonetically (e.g., `app dot py`, `qwen 2.5 7b`).
 
@@ -35,11 +36,11 @@ When executed against the target directory, generate and output the following co
 1. **3 Mid-Form Explainers (90s each):**
    - Expanded narrative breakdowns taking the 30s reels and adding architectural context explaining *why* local-first workflows beat cloud subscriptions.
 2. **3 Long-Form Explainers (3 – 5 min each):**
-   - Deep-dive technical guides walking through code logic, data flow, regex parsing, and local LLM JSON payload generation.
+   - Deep-dive technical guides walking through code logic, data flow, the Qwen prompt and its JSON response, and how concepts become graph nodes and links.
 
 ### Phase 4: Core Pillar Masterclass Videos (8 – 12 min each)
 Generate complete, step-by-step teleprompter-ready video scripts complete with `[bracketed production notes]` for ElevenLabs pacing and tone, structured across these 4 masterclasses:
-1. **LinkNode Build Video:** Writing the Python parser that transforms raw markdown notes into structured JSON graphs (`graph.json`) and D3.js force graphs (`index.html`).
+1. **LinkNode Build Video:** Writing the Python parser that transforms raw markdown notes into structured JSON graphs (`graph.json`) and an interactive force-directed graph on the live page (`index.html`, force-graph library), with Qwen on Ollama finding the links.
 2. **Git Repository Build Video:** Initializing local repos on Windows, configuring `.gitignore` rules, clearing cached staging errors (`git rm -r --cached .`), and managing file sizes safely.
 3. **Git Hosting Video:** Bypassing GitHub Pages deployment hurdles, configuring branch visibility, pushing to `main`, and publishing live.
 4. **The Guru Video (Master Integration):** A comprehensive masterclass tying local AI, knowledge graphs, Git version control, and automated multi-tier content pipelines into a single unified local-first workflow.

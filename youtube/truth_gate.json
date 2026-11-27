@@ -1,0 +1,17 @@
+{
+  "_about": "Claims LinkNode cannot make yet. Kept in sync with the LinkNode Truth Sheet in the Claude + Muse Workspace. Any title, description or tag matching a pattern below blocks the upload. Patterns are case-insensitive regular expressions.",
+  "verified_against_commit": "fd9bbd8",
+  "banned": [
+    {"pattern": "\\[\\[", "why": "[[ ]] wikilink parsing is not built"},
+    {"pattern": "wiki ?links?", "why": "wikilink parsing is not built"},
+    {"pattern": "bidirectional", "why": "no bidirectional link parsing; links come from Qwen"},
+    {"pattern": "\\bregex\\b|regular expression", "why": "no regex link parsing; links come from Qwen"},
+    {"pattern": "\\bd3(\\.js)?\\b(?!-force)", "why": "the live graph uses force-graph (built on d3-force), not D3.js directly; say 'force-directed graph'"},
+    {"pattern": "\\bheadings? (become|are|as) nodes", "why": "nodes are not built from headings"},
+    {"pattern": "1,?284", "why": "unverified number"},
+    {"pattern": "\\b42 files\\b", "why": "unverified number"},
+    {"pattern": "git reset --hard|git clean -f", "why": "destructive commands; never teach them"},
+    {"pattern": "starter kit|lite version|buy now|for sale|gumroad", "why": "no product is for sale yet"},
+    {"pattern": "masterclass ?[1-4]", "why": "masterclasses are not published yet; remove until each one has a live link", "allow_if_config": "masterclass_links_live"}
+  ]
+}
