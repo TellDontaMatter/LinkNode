@@ -21,10 +21,6 @@
       "group": 2
     },
     {
-      "id": "Integration and Collaboration",
-      "group": 2
-    },
-    {
       "id": "ProjectAlfa",
       "group": 1
     },
@@ -38,6 +34,1190 @@
     },
     {
       "id": "Local AI",
+      "group": 2
+    },
+    {
+      "id": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "group": 1
+    },
+    {
+      "id": "LinkNode",
+      "group": 2
+    },
+    {
+      "id": "Voice Production",
+      "group": 2
+    },
+    {
+      "id": "Host Appearance",
+      "group": 2
+    },
+    {
+      "id": "Memes",
+      "group": 2
+    },
+    {
+      "id": "Short-Form Videos",
+      "group": 2
+    },
+    {
+      "id": "Mid-Form Explainers",
+      "group": 2
+    },
+    {
+      "id": "Core Pillar Masterclass Videos",
+      "group": 2
+    },
+    {
+      "id": "Thumbnail Rule",
+      "group": 2
+    },
+    {
+      "id": "Project Context",
+      "group": 2
+    },
+    {
+      "id": "Operating Rules",
+      "group": 2
+    },
+    {
+      "id": "Phase 1 Deliverables",
+      "group": 2
+    },
+    {
+      "id": "Phase 2 Deliverables",
+      "group": 2
+    },
+    {
+      "id": "Phase 3 Deliverables",
+      "group": 2
+    },
+    {
+      "id": "Phase 4 Deliverables",
+      "group": 2
+    },
+    {
+      "id": "Voice Profile",
+      "group": 2
+    },
+    {
+      "id": "Audio Production Format",
+      "group": 2
+    },
+    {
+      "id": "Qwen_Production_Instruction_Capsule",
+      "group": 1
+    },
+    {
+      "id": "multi-tier production package generator",
+      "group": 2
+    },
+    {
+      "id": "markdown notes",
+      "group": 2
+    },
+    {
+      "id": "structured JSON knowledge graphs",
+      "group": 2
+    },
+    {
+      "id": "interactive D3.js web visualizations",
+      "group": 2
+    },
+    {
+      "id": "voiceover narration scripts",
+      "group": 2
+    },
+    {
+      "id": "bracketed production notes",
+      "group": 2
+    },
+    {
+      "id": "local Python",
+      "group": 2
+    },
+    {
+      "id": "Ollama",
+      "group": 2
+    },
+    {
+      "id": "still memes",
+      "group": 2
+    },
+    {
+      "id": "video stingers",
+      "group": 2
+    },
+    {
+      "id": "short-form social clips",
+      "group": 2
+    },
+    {
+      "id": "mid-form explainers",
+      "group": 2
+    },
+    {
+      "id": "long-form explainers",
+      "group": 2
+    },
+    {
+      "id": "core pillar masterclass videos",
+      "group": 2
+    },
+    {
+      "id": "Git workflow",
+      "group": 2
+    },
+    {
+      "id": "local-first workflows",
+      "group": 2
+    },
+    {
+      "id": "cloud subscriptions",
+      "group": 2
+    },
+    {
+      "id": "teleprompter-ready video scripts",
+      "group": 2
+    },
+    {
+      "id": "ElevenLabs pacing and tone",
+      "group": 2
+    },
+    {
+      "id": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "group": 1
+    },
+    {
+      "id": "LinkNode Production Capsule",
+      "group": 2
+    },
+    {
+      "id": "Host \u2014 Role Lock",
+      "group": 2
+    },
+    {
+      "id": "Phase 1: Visual / Graphic Assets",
+      "group": 2
+    },
+    {
+      "id": "Phase 2: Short-Form Social Clips / Shorts",
+      "group": 2
+    },
+    {
+      "id": "Phase 3: Mid-Form / Long-Form Explainers",
+      "group": 2
+    },
+    {
+      "id": "Phase 4: Core Pillar Masterclass Videos",
+      "group": 2
+    },
+    {
+      "id": "Changes in v2",
+      "group": 2
+    },
+    {
+      "id": "README_FOR_MUSE",
+      "group": 1
+    },
+    {
+      "id": "MUSE",
+      "group": 2
+    },
+    {
+      "id": "Zuckerverse",
+      "group": 2
+    },
+    {
+      "id": "meta surfaces",
+      "group": 2
+    },
+    {
+      "id": "Facebook",
+      "group": 2
+    },
+    {
+      "id": "Instagram",
+      "group": 2
+    },
+    {
+      "id": "Threads",
+      "group": 2
+    },
+    {
+      "id": "memes",
+      "group": 2
+    },
+    {
+      "id": "stingers",
+      "group": 2
+    },
+    {
+      "id": "shorts_10s",
+      "group": 2
+    },
+    {
+      "id": "shorts_30s",
+      "group": 2
+    },
+    {
+      "id": "mid_form",
+      "group": 2
+    },
+    {
+      "id": "long_form",
+      "group": 2
+    },
+    {
+      "id": "masterclasses",
+      "group": 2
+    },
+    {
+      "id": "scheduling",
+      "group": 2
+    },
+    {
+      "id": "schedule.json",
+      "group": 2
+    },
+    {
+      "id": "schedule.csv",
+      "group": 2
+    },
+    {
+      "id": "captions.md",
+      "group": 2
+    },
+    {
+      "id": "qwen2.5:7b",
+      "group": 2
+    },
+    {
+      "id": "graph.json",
+      "group": 2
+    },
+    {
+      "id": "index.html",
+      "group": 2
+    },
+    {
+      "id": "Git track",
+      "group": 2
+    },
+    {
+      "id": "Git",
+      "group": 2
+    },
+    {
+      "id": "Windows",
+      "group": 2
+    },
+    {
+      "id": "GitHub Pages",
+      "group": 2
+    },
+    {
+      "id": "long_01",
+      "group": 1
+    },
+    {
+      "id": "Git Repository Build",
+      "group": 2
+    },
+    {
+      "id": "Hook",
+      "group": 2
+    },
+    {
+      "id": "Act 1: Init local repo on Windows",
+      "group": 2
+    },
+    {
+      "id": "Act 2: .gitignore rules",
+      "group": 2
+    },
+    {
+      "id": "Act 3: Clear cached staging + index limits",
+      "group": 2
+    },
+    {
+      "id": "Act 4: Manage file sizes safely",
+      "group": 2
+    },
+    {
+      "id": "Closer",
+      "group": 2
+    },
+    {
+      "id": "FACE FOR HOOK + CLOSER ONLY",
+      "group": 2
+    },
+    {
+      "id": "Voice: Calm, razor-sharp, developer-first",
+      "group": 2
+    },
+    {
+      "id": "Production Notes",
+      "group": 2
+    },
+    {
+      "id": "long_02",
+      "group": 1
+    },
+    {
+      "id": "Face Rule",
+      "group": 2
+    },
+    {
+      "id": "Architecture",
+      "group": 2
+    },
+    {
+      "id": "Parser",
+      "group": 2
+    },
+    {
+      "id": "Ollama semantic extraction",
+      "group": 2
+    },
+    {
+      "id": "D3 render",
+      "group": 2
+    },
+    {
+      "id": "Calm",
+      "group": 2
+    },
+    {
+      "id": "razor-sharp",
+      "group": 2
+    },
+    {
+      "id": "developer-first",
+      "group": 2
+    },
+    {
+      "id": "ElevenLabs",
+      "group": 2
+    },
+    {
+      "id": "long_03",
+      "group": 1
+    },
+    {
+      "id": "deployment",
+      "group": 2
+    },
+    {
+      "id": "hosting",
+      "group": 2
+    },
+    {
+      "id": "01_LinkNode_Build",
+      "group": 1
+    },
+    {
+      "id": "LinkNode Build",
+      "group": 2
+    },
+    {
+      "id": "teleprompter script",
+      "group": 2
+    },
+    {
+      "id": "architecture",
+      "group": 2
+    },
+    {
+      "id": "app.py Parser",
+      "group": 2
+    },
+    {
+      "id": "Ollama Integration",
+      "group": 2
+    },
+    {
+      "id": "D3 Render",
+      "group": 2
+    },
+    {
+      "id": "voiceover",
+      "group": 2
+    },
+    {
+      "id": "code block",
+      "group": 2
+    },
+    {
+      "id": "pacing",
+      "group": 2
+    },
+    {
+      "id": "thumbnail",
+      "group": 2
+    },
+    {
+      "id": "02_Git_Repo_Build",
+      "group": 1
+    },
+    {
+      "id": "Repository",
+      "group": 2
+    },
+    {
+      "id": "Init",
+      "group": 2
+    },
+    {
+      "id": ".gitignore",
+      "group": 2
+    },
+    {
+      "id": "Staging",
+      "group": 2
+    },
+    {
+      "id": "File Sizes",
+      "group": 2
+    },
+    {
+      "id": "Git LFS",
+      "group": 2
+    },
+    {
+      "id": "03_Git_Hosting",
+      "group": 1
+    },
+    {
+      "id": "Git Hosting",
+      "group": 2
+    },
+    {
+      "id": "Video Production",
+      "group": 2
+    },
+    {
+      "id": "Code Push",
+      "group": 2
+    },
+    {
+      "id": "Branch Management",
+      "group": 2
+    },
+    {
+      "id": "Git Pages",
+      "group": 2
+    },
+    {
+      "id": "On-Camera Presence",
+      "group": 2
+    },
+    {
+      "id": "Thumbnail Design",
+      "group": 2
+    },
+    {
+      "id": "04_Guru_Master_Integration",
+      "group": 1
+    },
+    {
+      "id": "Knowledge Graph",
+      "group": 2
+    },
+    {
+      "id": "Content Pipeline",
+      "group": 2
+    },
+    {
+      "id": "Workflow",
+      "group": 2
+    },
+    {
+      "id": "meme_01_local_ai_vs_cloud_privacy",
+      "group": 1
+    },
+    {
+      "id": "Cloud Privacy",
+      "group": 2
+    },
+    {
+      "id": "Local First",
+      "group": 2
+    },
+    {
+      "id": "Obsidian",
+      "group": 2
+    },
+    {
+      "id": "Build In Public",
+      "group": 2
+    },
+    {
+      "id": "meme_02_your_notes_are_a_graph",
+      "group": 1
+    },
+    {
+      "id": "your notes are a graph",
+      "group": 2
+    },
+    {
+      "id": "D3.js force graph",
+      "group": 2
+    },
+    {
+      "id": "dark background",
+      "group": 2
+    },
+    {
+      "id": "messy folder icons",
+      "group": 2
+    },
+    {
+      "id": "clean folder icons",
+      "group": 2
+    },
+    {
+      "id": "local AI",
+      "group": 2
+    },
+    {
+      "id": "obsidian",
+      "group": 2
+    },
+    {
+      "id": "python",
+      "group": 2
+    },
+    {
+      "id": "git",
+      "group": 2
+    },
+    {
+      "id": "build in public",
+      "group": 2
+    },
+    {
+      "id": "meme_03_markdown_is_the_database",
+      "group": 1
+    },
+    {
+      "id": "Markdown",
+      "group": 2
+    },
+    {
+      "id": "Database",
+      "group": 2
+    },
+    {
+      "id": "filesystem",
+      "group": 2
+    },
+    {
+      "id": "terminal-style card",
+      "group": 2
+    },
+    {
+      "id": "nodes/edges",
+      "group": 2
+    },
+    {
+      "id": "LocalAI",
+      "group": 2
+    },
+    {
+      "id": "LocalFirst",
+      "group": 2
+    },
+    {
+      "id": "BuildInPublic",
+      "group": 2
+    },
+    {
+      "id": "meme_04_git_rm_-r_--cached_",
+      "group": 1
+    },
+    {
+      "id": "git rm -r --cached",
+      "group": 2
+    },
+    {
+      "id": "staging error",
+      "group": 2
+    },
+    {
+      "id": "uncache it",
+      "group": 2
+    },
+    {
+      "id": "meme_05_crdownload_ate_my_repo",
+      "group": 1
+    },
+    {
+      "id": "meme",
+      "group": 2
+    },
+    {
+      "id": ".crdownload",
+      "group": 2
+    },
+    {
+      "id": "Git repository",
+      "group": 2
+    },
+    {
+      "id": "download process",
+      "group": 2
+    },
+    {
+      "id": "version control",
+      "group": 2
+    },
+    {
+      "id": "meme_06_ollama_on_port_11434",
+      "group": 1
+    },
+    {
+      "id": "Port 11434",
+      "group": 2
+    },
+    {
+      "id": "Localhost",
+      "group": 2
+    },
+    {
+      "id": "Lock Icon",
+      "group": 2
+    },
+    {
+      "id": "Git Repo Build",
+      "group": 2
+    },
+    {
+      "id": "meme_07_git_index_limit",
+      "group": 1
+    },
+    {
+      "id": "git index limit",
+      "group": 2
+    },
+    {
+      "id": "git reset",
+      "group": 2
+    },
+    {
+      "id": "linknode",
+      "group": 2
+    },
+    {
+      "id": "localai",
+      "group": 2
+    },
+    {
+      "id": "localfirst",
+      "group": 2
+    },
+    {
+      "id": "meme_08_own_your_notes",
+      "group": 1
+    },
+    {
+      "id": "OWN_YOUR_NOTES",
+      "group": 2
+    },
+    {
+      "id": "CLOUD_OWNS_NOTHING",
+      "group": 2
+    },
+    {
+      "id": "YOU_OWN_IT_ALL",
+      "group": 2
+    },
+    {
+      "id": "GRAPH_GLOWING",
+      "group": 2
+    },
+    {
+      "id": "CLOUD_FADE_OUT",
+      "group": 2
+    },
+    {
+      "id": "FACE_RULE_NO_HOST_FACE",
+      "group": 2
+    },
+    {
+      "id": "LINKNODE_BUILD",
+      "group": 2
+    },
+    {
+      "id": "GIT_REPO_BUILD",
+      "group": 2
+    },
+    {
+      "id": "LOCAL_AI",
+      "group": 2
+    },
+    {
+      "id": "LOCAL_FIRST",
+      "group": 2
+    },
+    {
+      "id": "OBSIDIAN",
+      "group": 2
+    },
+    {
+      "id": "PYTHON",
+      "group": 2
+    },
+    {
+      "id": "BUILD_IN_PUBLIC",
+      "group": 2
+    },
+    {
+      "id": "mid_01",
+      "group": 1
+    },
+    {
+      "id": "Body",
+      "group": 2
+    },
+    {
+      "id": "app.py",
+      "group": 2
+    },
+    {
+      "id": "regex",
+      "group": 2
+    },
+    {
+      "id": "D3",
+      "group": 2
+    },
+    {
+      "id": "mid_02",
+      "group": 1
+    },
+    {
+      "id": "file sizes",
+      "group": 2
+    },
+    {
+      "id": "mid_03",
+      "group": 1
+    },
+    {
+      "id": "cloud",
+      "group": 2
+    },
+    {
+      "id": "data privacy",
+      "group": 2
+    },
+    {
+      "id": "qwen2.5",
+      "group": 2
+    },
+    {
+      "id": "D3 graph",
+      "group": 2
+    },
+    {
+      "id": "captions",
+      "group": 1
+    },
+    {
+      "id": "CloudPrivacy",
+      "group": 2
+    },
+    {
+      "id": "Masterclass",
+      "group": 2
+    },
+    {
+      "id": "GitRepoBuild",
+      "group": 2
+    },
+    {
+      "id": "GitHosting",
+      "group": 2
+    },
+    {
+      "id": "GuruMasterIntegration",
+      "group": 2
+    },
+    {
+      "id": "Shorts",
+      "group": 2
+    },
+    {
+      "id": "30sShorts",
+      "group": 2
+    },
+    {
+      "id": "Mids",
+      "group": 2
+    },
+    {
+      "id": "Longs",
+      "group": 2
+    },
+    {
+      "id": "README_MUSE_SCHEDULING",
+      "group": 2
+    },
+    {
+      "id": "README_FOR_MUSE.md",
+      "group": 2
+    },
+    {
+      "id": "day order",
+      "group": 2
+    },
+    {
+      "id": "confirmation list",
+      "group": 2
+    },
+    {
+      "id": "short10_01",
+      "group": 1
+    },
+    {
+      "id": "git rm -r --cached .",
+      "group": 2
+    },
+    {
+      "id": ".crdownload files",
+      "group": 2
+    },
+    {
+      "id": "screen capture",
+      "group": 2
+    },
+    {
+      "id": "short10_02",
+      "group": 1
+    },
+    {
+      "id": "Git index limit",
+      "group": 2
+    },
+    {
+      "id": "short10_03",
+      "group": 1
+    },
+    {
+      "id": "Short 10s",
+      "group": 2
+    },
+    {
+      "id": "graph",
+      "group": 2
+    },
+    {
+      "id": "terminal",
+      "group": 2
+    },
+    {
+      "id": "VS Code",
+      "group": 2
+    },
+    {
+      "id": "Graph",
+      "group": 2
+    },
+    {
+      "id": "local-first",
+      "group": 2
+    },
+    {
+      "id": "short10_04",
+      "group": 1
+    },
+    {
+      "id": "localhost",
+      "group": 2
+    },
+    {
+      "id": "short10_05",
+      "group": 1
+    },
+    {
+      "id": "double brackets",
+      "group": 2
+    },
+    {
+      "id": "edge",
+      "group": 2
+    },
+    {
+      "id": "VOICE ONLY + SCREEN",
+      "group": 2
+    },
+    {
+      "id": "short10_06",
+      "group": 1
+    },
+    {
+      "id": "Terminal",
+      "group": 2
+    },
+    {
+      "id": "Node",
+      "group": 2
+    },
+    {
+      "id": "Edge",
+      "group": 2
+    },
+    {
+      "id": "Screen capture",
+      "group": 2
+    },
+    {
+      "id": "Voiceover",
+      "group": 2
+    },
+    {
+      "id": "short10_07",
+      "group": 1
+    },
+    {
+      "id": "D3.js",
+      "group": 2
+    },
+    {
+      "id": "Force Simulation",
+      "group": 2
+    },
+    {
+      "id": "Graph JSON",
+      "group": 2
+    },
+    {
+      "id": "short10_08",
+      "group": 1
+    },
+    {
+      "id": "gitignore",
+      "group": 2
+    },
+    {
+      "id": "version_control",
+      "group": 2
+    },
+    {
+      "id": "coding_practices",
+      "group": 2
+    },
+    {
+      "id": "short10_09",
+      "group": 1
+    },
+    {
+      "id": "Vertical 9:16",
+      "group": 2
+    },
+    {
+      "id": "No subscriptions",
+      "group": 2
+    },
+    {
+      "id": "No servers",
+      "group": 2
+    },
+    {
+      "id": "Total ownership",
+      "group": 2
+    },
+    {
+      "id": "short30_01",
+      "group": 1
+    },
+    {
+      "id": ".crdownload file",
+      "group": 2
+    },
+    {
+      "id": "Git index",
+      "group": 2
+    },
+    {
+      "id": "repository cleaning",
+      "group": 2
+    },
+    {
+      "id": "short30_02",
+      "group": 1
+    },
+    {
+      "id": "short30_03",
+      "group": 1
+    },
+    {
+      "id": "No Cloud",
+      "group": 2
+    },
+    {
+      "id": "stinger_01",
+      "group": 1
+    },
+    {
+      "id": "Motion graphic",
+      "group": 2
+    },
+    {
+      "id": "stinger_02",
+      "group": 1
+    },
+    {
+      "id": "Stinger 2",
+      "group": 2
+    },
+    {
+      "id": "motion graphic",
+      "group": 2
+    },
+    {
+      "id": "folder icons",
+      "group": 2
+    },
+    {
+      "id": "graph nodes",
+      "group": 2
+    },
+    {
+      "id": "cold open",
+      "group": 2
+    },
+    {
+      "id": "scene transition",
+      "group": 2
+    },
+    {
+      "id": "end card",
+      "group": 2
+    },
+    {
+      "id": "stinger_03",
+      "group": 1
+    },
+    {
+      "id": "Stinger 3",
+      "group": 2
+    },
+    {
+      "id": "nodes",
+      "group": 2
+    },
+    {
+      "id": " Shorts / Mids / Longs",
+      "group": 2
+    },
+    {
+      "id": "stinger_04",
+      "group": 1
+    },
+    {
+      "id": "Stinger 4",
+      "group": 2
+    },
+    {
+      "id": "stinger_05",
+      "group": 1
+    },
+    {
+      "id": "Stinger 5",
+      "group": 2
+    },
+    {
+      "id": "repo deletion",
+      "group": 2
+    },
+    {
+      "id": "stinger_06",
+      "group": 1
+    },
+    {
+      "id": "Stinger 6",
+      "group": 2
+    },
+    {
+      "id": "Meme 6",
+      "group": 2
+    },
+    {
+      "id": "Localhost badge",
+      "group": 2
+    },
+    {
+      "id": "Lock",
+      "group": 2
+    },
+    {
+      "id": "Sting",
+      "group": 2
+    },
+    {
+      "id": "Mechanical hit",
+      "group": 2
+    },
+    {
+      "id": "Voice sting",
+      "group": 2
+    },
+    {
+      "id": "Cold open",
+      "group": 2
+    },
+    {
+      "id": "Scene transition",
+      "group": 2
+    },
+    {
+      "id": "End card",
+      "group": 2
+    },
+    {
+      "id": "stinger_07",
+      "group": 1
+    },
+    {
+      "id": "Stinger 7",
+      "group": 2
+    },
+    {
+      "id": "Git Index",
+      "group": 2
+    },
+    {
+      "id": "stinger_08",
+      "group": 1
+    },
+    {
+      "id": "Stinger 8",
+      "group": 2
+    },
+    {
+      "id": "Own Your Notes",
+      "group": 2
+    },
+    {
+      "id": "Duration",
+      "group": 2
+    },
+    {
+      "id": "Source Meme",
+      "group": 2
+    },
+    {
+      "id": "Motion",
+      "group": 2
+    },
+    {
+      "id": "Audio",
+      "group": 2
+    },
+    {
+      "id": "Use",
       "group": 2
     }
   ],
@@ -60,7 +1240,23 @@
     },
     {
       "source": "processed_ProjectAlfa",
-      "target": "Integration and Collaboration"
+      "target": "Python Documentation"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Local AI Explanation"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "NumPy Documentation"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "Pandas Documentation"
+    },
+    {
+      "source": "processed_ProjectAlfa",
+      "target": "TensorFlow Documentation"
     },
     {
       "source": "ProjectAlfa",
@@ -73,6 +1269,1870 @@
     {
       "source": "ProjectAlfa",
       "target": "Local AI"
+    },
+    {
+      "source": "ProjectAlfa",
+      "target": "automation workflows"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "LinkNode"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Voice Production"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Host Appearance"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Memes"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Short-Form Videos"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Mid-Form Explainers"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Core Pillar Masterclass Videos"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Thumbnail Rule"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Project Context"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Operating Rules"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Phase 1 Deliverables"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Phase 2 Deliverables"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Phase 3 Deliverables"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Phase 4 Deliverables"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Voice Profile"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "Audio Production Format"
+    },
+    {
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "LinkNode-Face-Behind-Voice-Capsule-V1"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "multi-tier production package generator"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "markdown notes"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "structured JSON knowledge graphs"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "interactive D3.js web visualizations"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "voiceover narration scripts"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "bracketed production notes"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "local Python"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "Ollama"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "still memes"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "video stingers"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "short-form social clips"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "mid-form explainers"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "long-form explainers"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "core pillar masterclass videos"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "Git workflow"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "local-first workflows"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "cloud subscriptions"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "teleprompter-ready video scripts"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "ElevenLabs pacing and tone"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "C:\\LinkNode\\notes"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "telldontamatter.github.io/LinkNode"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "GitHub Pages"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "local AI vs. cloud privacy"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "markdown note-hoarding"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "Git workflow struggles"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "clearing .crdownload files"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "fixing Git index limits"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "local Ollama endpoints"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "LinkNode Build Video"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "Git Repository Build Video"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "Git Hosting Video"
+    },
+    {
+      "source": "Qwen_Production_Instruction_Capsule",
+      "target": "The Guru Video (Master Integration)"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "LinkNode Production Capsule"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Host \u2014 Role Lock"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Voice Profile"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Project Context"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Audio Production Format"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Operating Rules"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Phase 1: Visual / Graphic Assets"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Phase 2: Short-Form Social Clips / Shorts"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Phase 3: Mid-Form / Long-Form Explainers"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Phase 4: Core Pillar Masterclass Videos"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Thumbnail Rule"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Changes in v2"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Pipeline Architecture"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Tooling"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Local Python + Ollama (qwen2.5:7b) + Obsidian-style [[ ]] links"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Python `pathlib`, `re`, `json`, `urllib.request`"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Oldman (qwen2.5:7b) on port 11434"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Local Git Repositories on Windows"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Cleaned .gitignore rules"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Excluding .crdownload, large binaries, .DS_Store"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Deployed live via GitHub Pages"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Rendered at github.io/LinkNode/"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Still Memes"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Video Stingers"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Short-Form Videos"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Mid-Form Explainers"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Long-Form Explainers"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Core Pillar Masterclass Videos"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "LinkNode Build Video"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Git Repository Build Video"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "Git Hosting Video"
+    },
+    {
+      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "target": "The Guru Video Master Integration"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "MUSE"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Zuckerverse"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "meta surfaces"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Facebook"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Instagram"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Threads"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "memes"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "stingers"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "shorts_10s"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "shorts_30s"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "mid_form"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "long_form"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "masterclasses"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "scheduling"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "schedule.json"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "schedule.csv"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "captions.md"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "LinkNode"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Ollama"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "qwen2.5:7b"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "graph.json"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "index.html"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Git track"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Git"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "Windows"
+    },
+    {
+      "source": "README_FOR_MUSE",
+      "target": "GitHub Pages"
+    },
+    {
+      "source": "long_01",
+      "target": "Git Repository Build"
+    },
+    {
+      "source": "long_01",
+      "target": "Hook"
+    },
+    {
+      "source": "long_01",
+      "target": "Act 1: Init local repo on Windows"
+    },
+    {
+      "source": "long_01",
+      "target": "Act 2: .gitignore rules"
+    },
+    {
+      "source": "long_01",
+      "target": "Act 3: Clear cached staging + index limits"
+    },
+    {
+      "source": "long_01",
+      "target": "Act 4: Manage file sizes safely"
+    },
+    {
+      "source": "long_01",
+      "target": "Closer"
+    },
+    {
+      "source": "long_01",
+      "target": "FACE FOR HOOK + CLOSER ONLY"
+    },
+    {
+      "source": "long_01",
+      "target": "Voice: Calm, razor-sharp, developer-first"
+    },
+    {
+      "source": "long_01",
+      "target": "Production Notes"
+    },
+    {
+      "source": "long_01",
+      "target": "long-form explainer"
+    },
+    {
+      "source": "long_02",
+      "target": "Face Rule"
+    },
+    {
+      "source": "long_02",
+      "target": "Hook"
+    },
+    {
+      "source": "long_02",
+      "target": "Architecture"
+    },
+    {
+      "source": "long_02",
+      "target": "Parser"
+    },
+    {
+      "source": "long_02",
+      "target": "Ollama semantic extraction"
+    },
+    {
+      "source": "long_02",
+      "target": "D3 render"
+    },
+    {
+      "source": "long_02",
+      "target": "Calm"
+    },
+    {
+      "source": "long_02",
+      "target": "razor-sharp"
+    },
+    {
+      "source": "long_02",
+      "target": "developer-first"
+    },
+    {
+      "source": "long_02",
+      "target": "ElevenLabs"
+    },
+    {
+      "source": "long_02",
+      "target": "long-form content creation"
+    },
+    {
+      "source": "long_02",
+      "target": "voiceover production"
+    },
+    {
+      "source": "long_02",
+      "target": "code explanation"
+    },
+    {
+      "source": "long_03",
+      "target": "GitHub Pages"
+    },
+    {
+      "source": "long_03",
+      "target": "deployment"
+    },
+    {
+      "source": "long_03",
+      "target": "hosting"
+    },
+    {
+      "source": "long_03",
+      "target": "web_development"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "LinkNode Build"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "teleprompter script"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "architecture"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "app.py Parser"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "Ollama Integration"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "D3 Render"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "voiceover"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "code block"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "pacing"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "thumbnail"
+    },
+    {
+      "source": "01_LinkNode_Build",
+      "target": "LinkNodeGITBuildScript.txt"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Git"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Repository"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Init"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": ".gitignore"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Staging"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "File Sizes"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Git LFS"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Version Control"
+    },
+    {
+      "source": "02_Git_Repo_Build",
+      "target": "Development Best Practices"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Git Hosting"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Video Production"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Code Push"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Branch Management"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Git Pages"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "On-Camera Presence"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Thumbnail Design"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Git Workflow"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Video Content Creation"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "Web Development"
+    },
+    {
+      "source": "03_Git_Hosting",
+      "target": "User Experience"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "Local AI"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "Knowledge Graph"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "Git"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "Content Pipeline"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "Workflow"
+    },
+    {
+      "source": "04_Guru_Master_Integration",
+      "target": "integration"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Local AI"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Cloud Privacy"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "LinkNode"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Local First"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Obsidian"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Python"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Git"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Build In Public"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Masterclass 1 (LinkNode Build)"
+    },
+    {
+      "source": "meme_01_local_ai_vs_cloud_privacy",
+      "target": "Masterclass 2 (Git Repo Build)"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "your notes are a graph"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "LinkNode"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "D3.js force graph"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "dark background"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "messy folder icons"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "clean folder icons"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "local AI"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "obsidian"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "python"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "git"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "build in public"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "Masterclass 1 (LinkNode Build)"
+    },
+    {
+      "source": "meme_02_your_notes_are_a_graph",
+      "target": "Masterclass 2 (Git Repo Build)"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Markdown"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Database"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "filesystem"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "terminal-style card"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "nodes/edges"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "LinkNode"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "LocalAI"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "LocalFirst"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Obsidian"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Python"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Git"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "BuildInPublic"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Masterclass 1 (LinkNode Build)"
+    },
+    {
+      "source": "meme_03_markdown_is_the_database",
+      "target": "Masterclass 2 (Git Repo Build)"
+    },
+    {
+      "source": "meme_04_git_rm_-r_--cached_",
+      "target": "git rm -r --cached"
+    },
+    {
+      "source": "meme_04_git_rm_-r_--cached_",
+      "target": "staging error"
+    },
+    {
+      "source": "meme_04_git_rm_-r_--cached_",
+      "target": "uncache it"
+    },
+    {
+      "source": "meme_04_git_rm_-r_--cached_",
+      "target": "Masterclass 1 (LinkNode Build)"
+    },
+    {
+      "source": "meme_04_git_rm_-r_--cached_",
+      "target": "Masterclass 2 (Git Repo Build)"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "meme"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": ".crdownload"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "Git repository"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "download process"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "version control"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "LinkNode"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "local AI"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "Obsidian"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "Python"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "Masterclass 1"
+    },
+    {
+      "source": "meme_05_crdownload_ate_my_repo",
+      "target": "Masterclass 2"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Ollama"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Port 11434"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Localhost"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "qwen2.5:7b"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Lock Icon"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "LinkNode Build"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Git Repo Build"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Local AI"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Local First"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Obsidian"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Python"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Build In Public"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Masterclass 1"
+    },
+    {
+      "source": "meme_06_ollama_on_port_11434",
+      "target": "Masterclass 2"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "git index limit"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "git reset"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": ".gitignore"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "linknode"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "localai"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "localfirst"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "obsidian"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "python"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "git"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "masterclass 1"
+    },
+    {
+      "source": "meme_07_git_index_limit",
+      "target": "masterclass 2"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "OWN_YOUR_NOTES"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "CLOUD_OWNS_NOTHING"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "YOU_OWN_IT_ALL"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "GRAPH_GLOWING"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "CLOUD_FADE_OUT"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "FACE_RULE_NO_HOST_FACE"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "LINKNODE_BUILD"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "GIT_REPO_BUILD"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "LOCAL_AI"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "LOCAL_FIRST"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "OBSIDIAN"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "PYTHON"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "BUILD_IN_PUBLIC"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "masterclass_1"
+    },
+    {
+      "source": "meme_08_own_your_notes",
+      "target": "masterclass_2"
+    },
+    {
+      "source": "mid_01",
+      "target": "Face Rule"
+    },
+    {
+      "source": "mid_01",
+      "target": "Hook"
+    },
+    {
+      "source": "mid_01",
+      "target": "Body"
+    },
+    {
+      "source": "mid_01",
+      "target": "Closer"
+    },
+    {
+      "source": "mid_01",
+      "target": "app.py"
+    },
+    {
+      "source": "mid_01",
+      "target": "regex"
+    },
+    {
+      "source": "mid_01",
+      "target": "graph.json"
+    },
+    {
+      "source": "mid_01",
+      "target": "D3"
+    },
+    {
+      "source": "mid_01",
+      "target": "90s Explainer"
+    },
+    {
+      "source": "mid_02",
+      "target": "Git"
+    },
+    {
+      "source": "mid_02",
+      "target": ".gitignore"
+    },
+    {
+      "source": "mid_02",
+      "target": "git rm -r --cached"
+    },
+    {
+      "source": "mid_02",
+      "target": "git reset"
+    },
+    {
+      "source": "mid_02",
+      "target": "file sizes"
+    },
+    {
+      "source": "mid_02",
+      "target": "git_version_control"
+    },
+    {
+      "source": "mid_03",
+      "target": "local AI"
+    },
+    {
+      "source": "mid_03",
+      "target": "cloud"
+    },
+    {
+      "source": "mid_03",
+      "target": "data privacy"
+    },
+    {
+      "source": "mid_03",
+      "target": "Ollama"
+    },
+    {
+      "source": "mid_03",
+      "target": "qwen2.5"
+    },
+    {
+      "source": "mid_03",
+      "target": "D3 graph"
+    },
+    {
+      "source": "mid_03",
+      "target": "data security"
+    },
+    {
+      "source": "captions",
+      "target": "LinkNode"
+    },
+    {
+      "source": "captions",
+      "target": "LocalAI"
+    },
+    {
+      "source": "captions",
+      "target": "CloudPrivacy"
+    },
+    {
+      "source": "captions",
+      "target": "Masterclass"
+    },
+    {
+      "source": "captions",
+      "target": "GitRepoBuild"
+    },
+    {
+      "source": "captions",
+      "target": "GitHosting"
+    },
+    {
+      "source": "captions",
+      "target": "GuruMasterIntegration"
+    },
+    {
+      "source": "captions",
+      "target": "Memes"
+    },
+    {
+      "source": "captions",
+      "target": "Shorts"
+    },
+    {
+      "source": "captions",
+      "target": "30sShorts"
+    },
+    {
+      "source": "captions",
+      "target": "Mids"
+    },
+    {
+      "source": "captions",
+      "target": "Longs"
+    },
+    {
+      "source": "captions",
+      "target": "Threads"
+    },
+    {
+      "source": "captions",
+      "target": "Zuckerverse"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "README_FOR_MUSE.md"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "schedule.json"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "captions.md"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "day order"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "confirmation list"
+    },
+    {
+      "source": "README_MUSE_SCHEDULING",
+      "target": "muse_schedule"
+    },
+    {
+      "source": "short10_01",
+      "target": "git rm -r --cached ."
+    },
+    {
+      "source": "short10_01",
+      "target": ".crdownload files"
+    },
+    {
+      "source": "short10_01",
+      "target": "screen capture"
+    },
+    {
+      "source": "short10_01",
+      "target": "terminal commands"
+    },
+    {
+      "source": "short10_02",
+      "target": "Git index limit"
+    },
+    {
+      "source": "short10_02",
+      "target": "git reset"
+    },
+    {
+      "source": "short10_02",
+      "target": ".gitignore"
+    },
+    {
+      "source": "short10_02",
+      "target": "Git version control"
+    },
+    {
+      "source": "short10_03",
+      "target": "Short 10s"
+    },
+    {
+      "source": "short10_03",
+      "target": "LinkNode"
+    },
+    {
+      "source": "short10_03",
+      "target": "markdown notes"
+    },
+    {
+      "source": "short10_03",
+      "target": "graph"
+    },
+    {
+      "source": "short10_03",
+      "target": "terminal"
+    },
+    {
+      "source": "short10_03",
+      "target": "VS Code"
+    },
+    {
+      "source": "short10_03",
+      "target": "Graph"
+    },
+    {
+      "source": "short10_03",
+      "target": "local-first"
+    },
+    {
+      "source": "short10_03",
+      "target": "What Is LinkNode"
+    },
+    {
+      "source": "short10_04",
+      "target": "Ollama"
+    },
+    {
+      "source": "short10_04",
+      "target": "localhost"
+    },
+    {
+      "source": "short10_04",
+      "target": "cloud"
+    },
+    {
+      "source": "short10_04",
+      "target": "terminal"
+    },
+    {
+      "source": "short10_04",
+      "target": "VS Code"
+    },
+    {
+      "source": "short10_04",
+      "target": "Graph"
+    },
+    {
+      "source": "short10_04",
+      "target": "local-first"
+    },
+    {
+      "source": "short10_05",
+      "target": "double brackets"
+    },
+    {
+      "source": "short10_05",
+      "target": "edge"
+    },
+    {
+      "source": "short10_05",
+      "target": "LinkNode"
+    },
+    {
+      "source": "short10_05",
+      "target": "screen capture"
+    },
+    {
+      "source": "short10_05",
+      "target": "terminal"
+    },
+    {
+      "source": "short10_05",
+      "target": "VS Code"
+    },
+    {
+      "source": "short10_05",
+      "target": "Graph"
+    },
+    {
+      "source": "short10_05",
+      "target": "VOICE ONLY + SCREEN"
+    },
+    {
+      "source": "short10_05",
+      "target": "LinkNode, local-first"
+    },
+    {
+      "source": "short10_06",
+      "target": "Short 10s"
+    },
+    {
+      "source": "short10_06",
+      "target": "graph.json"
+    },
+    {
+      "source": "short10_06",
+      "target": "Terminal"
+    },
+    {
+      "source": "short10_06",
+      "target": "VS Code"
+    },
+    {
+      "source": "short10_06",
+      "target": "Node"
+    },
+    {
+      "source": "short10_06",
+      "target": "Edge"
+    },
+    {
+      "source": "short10_06",
+      "target": "Screen capture"
+    },
+    {
+      "source": "short10_06",
+      "target": "Voiceover"
+    },
+    {
+      "source": "short10_06",
+      "target": "production_notes"
+    },
+    {
+      "source": "short10_06",
+      "target": "video_format"
+    },
+    {
+      "source": "short10_06",
+      "target": "face_rule"
+    },
+    {
+      "source": "short10_07",
+      "target": "D3.js"
+    },
+    {
+      "source": "short10_07",
+      "target": "Force Simulation"
+    },
+    {
+      "source": "short10_07",
+      "target": "Graph JSON"
+    },
+    {
+      "source": "short10_07",
+      "target": "LinkNode"
+    },
+    {
+      "source": "short10_07",
+      "target": "local-first"
+    },
+    {
+      "source": "short10_08",
+      "target": "gitignore"
+    },
+    {
+      "source": "short10_08",
+      "target": "version_control"
+    },
+    {
+      "source": "short10_08",
+      "target": "coding_practices"
+    },
+    {
+      "source": "short10_08",
+      "target": "git_commands"
+    },
+    {
+      "source": "short10_08",
+      "target": "exclusion_rules"
+    },
+    {
+      "source": "short10_09",
+      "target": "Short 10s"
+    },
+    {
+      "source": "short10_09",
+      "target": "Vertical 9:16"
+    },
+    {
+      "source": "short10_09",
+      "target": "VOICE ONLY + SCREEN"
+    },
+    {
+      "source": "short10_09",
+      "target": "Terminal"
+    },
+    {
+      "source": "short10_09",
+      "target": "VS Code"
+    },
+    {
+      "source": "short10_09",
+      "target": "Graph"
+    },
+    {
+      "source": "short10_09",
+      "target": "No subscriptions"
+    },
+    {
+      "source": "short10_09",
+      "target": "No servers"
+    },
+    {
+      "source": "short10_09",
+      "target": "Total ownership"
+    },
+    {
+      "source": "short10_09",
+      "target": "LinkNode"
+    },
+    {
+      "source": "short10_09",
+      "target": "local-first"
+    },
+    {
+      "source": "short10_09",
+      "target": "production_notes"
+    },
+    {
+      "source": "short10_09",
+      "target": "tiktok_content_types"
+    },
+    {
+      "source": "short30_01",
+      "target": "staging error"
+    },
+    {
+      "source": "short30_01",
+      "target": ".crdownload file"
+    },
+    {
+      "source": "short30_01",
+      "target": "Git index"
+    },
+    {
+      "source": "short30_01",
+      "target": "gitignore"
+    },
+    {
+      "source": "short30_01",
+      "target": "repository cleaning"
+    },
+    {
+      "source": "short30_01",
+      "target": "git commands"
+    },
+    {
+      "source": "short30_02",
+      "target": "Markdown"
+    },
+    {
+      "source": "short30_02",
+      "target": "Graph"
+    },
+    {
+      "source": "short30_02",
+      "target": "Voiceover"
+    },
+    {
+      "source": "short30_02",
+      "target": "Short 3"
+    },
+    {
+      "source": "short30_02",
+      "target": "Short 5"
+    },
+    {
+      "source": "short30_02",
+      "target": "Short 6"
+    },
+    {
+      "source": "short30_03",
+      "target": "Local AI"
+    },
+    {
+      "source": "short30_03",
+      "target": "No Cloud"
+    },
+    {
+      "source": "short30_03",
+      "target": "Ollama"
+    },
+    {
+      "source": "short30_03",
+      "target": "D3"
+    },
+    {
+      "source": "short30_03",
+      "target": "Short 4"
+    },
+    {
+      "source": "short30_03",
+      "target": "Short 7"
+    },
+    {
+      "source": "short30_03",
+      "target": "Short 9"
+    },
+    {
+      "source": "stinger_01",
+      "target": "Local AI"
+    },
+    {
+      "source": "stinger_01",
+      "target": "Cloud Privacy"
+    },
+    {
+      "source": "stinger_01",
+      "target": "Motion graphic"
+    },
+    {
+      "source": "stinger_01",
+      "target": "Stinger 1"
+    },
+    {
+      "source": "stinger_02",
+      "target": "Stinger 2"
+    },
+    {
+      "source": "stinger_02",
+      "target": "motion graphic"
+    },
+    {
+      "source": "stinger_02",
+      "target": "folder icons"
+    },
+    {
+      "source": "stinger_02",
+      "target": "graph nodes"
+    },
+    {
+      "source": "stinger_02",
+      "target": "cold open"
+    },
+    {
+      "source": "stinger_02",
+      "target": "scene transition"
+    },
+    {
+      "source": "stinger_02",
+      "target": "end card"
+    },
+    {
+      "source": "stinger_02",
+      "target": "Shorts"
+    },
+    {
+      "source": "stinger_02",
+      "target": "Mids"
+    },
+    {
+      "source": "stinger_02",
+      "target": "Longs"
+    },
+    {
+      "source": "stinger_02",
+      "target": "Stinger 02"
+    },
+    {
+      "source": "stinger_02",
+      "target": "motion graphics design"
+    },
+    {
+      "source": "stinger_02",
+      "target": "graph theory"
+    },
+    {
+      "source": "stinger_02",
+      "target": "transition effects"
+    },
+    {
+      "source": "stinger_02",
+      "target": "video content types"
+    },
+    {
+      "source": "stinger_03",
+      "target": "Stinger 3"
+    },
+    {
+      "source": "stinger_03",
+      "target": "Markdown"
+    },
+    {
+      "source": "stinger_03",
+      "target": "motion graphic"
+    },
+    {
+      "source": "stinger_03",
+      "target": "nodes"
+    },
+    {
+      "source": "stinger_03",
+      "target": " Shorts / Mids / Longs"
+    },
+    {
+      "source": "stinger_03",
+      "target": "Stinger"
+    },
+    {
+      "source": "stinger_03",
+      "target": "motion design"
+    },
+    {
+      "source": "stinger_03",
+      "target": "content transition"
+    },
+    {
+      "source": "stinger_04",
+      "target": "Stinger 4"
+    },
+    {
+      "source": "stinger_04",
+      "target": "git rm -r --cached"
+    },
+    {
+      "source": "stinger_04",
+      "target": "motion graphic"
+    },
+    {
+      "source": "stinger_04",
+      "target": "Meme 4"
+    },
+    {
+      "source": "stinger_05",
+      "target": "Stinger 5"
+    },
+    {
+      "source": "stinger_05",
+      "target": ".crdownload"
+    },
+    {
+      "source": "stinger_05",
+      "target": "motion graphic"
+    },
+    {
+      "source": "stinger_05",
+      "target": "repo deletion"
+    },
+    {
+      "source": "stinger_05",
+      "target": "cold open"
+    },
+    {
+      "source": "stinger_05",
+      "target": "scene transition"
+    },
+    {
+      "source": "stinger_05",
+      "target": "end card"
+    },
+    {
+      "source": "stinger_05",
+      "target": "Meme 5"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Stinger 6"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Ollama"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Motion graphic"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Meme 6"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Localhost badge"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Lock"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Sting"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Mechanical hit"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Voice sting"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Cold open"
+    },
+    {
+      "source": "stinger_06",
+      "target": "Scene transition"
+    },
+    {
+      "source": "stinger_06",
+      "target": "End card"
+    },
+    {
+      "source": "stinger_06",
+      "target": " Shorts"
+    },
+    {
+      "source": "stinger_06",
+      "target": " Mids"
+    },
+    {
+      "source": "stinger_06",
+      "target": " Longs"
+    },
+    {
+      "source": "stinger_07",
+      "target": "Stinger 7"
+    },
+    {
+      "source": "stinger_07",
+      "target": "Git Index"
+    },
+    {
+      "source": "stinger_07",
+      "target": ".gitignore"
+    },
+    {
+      "source": "stinger_07",
+      "target": "Meme 7"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Stinger 8"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Own Your Notes"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Duration"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Face Rule"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Source Meme"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Motion"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Audio"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Use"
+    },
+    {
+      "source": "stinger_08",
+      "target": "cold open"
+    },
+    {
+      "source": "stinger_08",
+      "target": "scene transition"
+    },
+    {
+      "source": "stinger_08",
+      "target": "end card"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Shorts"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Mids"
+    },
+    {
+      "source": "stinger_08",
+      "target": "Longs"
     }
   ]
 }

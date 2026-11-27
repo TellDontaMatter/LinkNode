@@ -1,0 +1,31 @@
+day,asset,platforms,format,face_rule
+1,memes/meme_01,Facebook | Instagram | Threads,Still Meme,NO FACE
+2,memes/meme_02,Facebook | Instagram | Threads,Still Meme,NO FACE
+3,memes/meme_03,Facebook | Instagram | Threads,Still Meme,NO FACE
+4,memes/meme_04,Facebook | Instagram | Threads,Still Meme,NO FACE
+5,memes/meme_05,Facebook | Instagram | Threads,Still Meme,NO FACE
+6,memes/meme_06,Facebook | Instagram | Threads,Still Meme,NO FACE
+7,memes/meme_07,Facebook | Instagram | Threads,Still Meme,NO FACE
+8,memes/meme_08,Facebook | Instagram | Threads,Still Meme,NO FACE
+9,shorts_10s/short10_01,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+10,shorts_10s/short10_02,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+11,shorts_10s/short10_03,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+12,shorts_10s/short10_04,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+13,shorts_10s/short10_05,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+14,shorts_10s/short10_06,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+15,shorts_10s/short10_07,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+16,shorts_10s/short10_08,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+17,shorts_10s/short10_09,Instagram Reels | Facebook Reels | Threads,10s Short,VOICE ONLY
+18,shorts_30s/short30_01,Instagram Reels | Facebook Reels,30s Short,VOICE ONLY
+19,shorts_30s/short30_02,Instagram Reels | Facebook Reels,30s Short,VOICE ONLY
+20,shorts_30s/short30_03,Instagram Reels | Facebook Reels,30s Short,VOICE ONLY
+21,mid_form/mid_01,Facebook | Instagram | YouTube Shorts,90s Mid,FACE HOOK/CLOSER ONLY
+22,mid_form/mid_02,Facebook | Instagram | YouTube Shorts,90s Mid,FACE HOOK/CLOSER ONLY
+23,mid_form/mid_03,Facebook | Instagram | YouTube Shorts,90s Mid,FACE HOOK/CLOSER ONLY
+24,long_form/long_01,Facebook | YouTube,3-5 min Long,FACE HOOK/CLOSER ONLY
+25,long_form/long_02,Facebook | YouTube,3-5 min Long,FACE HOOK/CLOSER ONLY
+26,long_form/long_03,Facebook | YouTube,3-5 min Long,FACE HOOK/CLOSER ONLY
+27,masterclasses/01_LinkNode_Build,Facebook | YouTube | Instagram (teaser),Masterclass Pillar,FULL HOST
+30,masterclasses/02_Git_Repo_Build,Facebook | YouTube | Instagram (teaser),Masterclass Pillar,FULL HOST
+33,masterclasses/03_Git_Hosting,Facebook | YouTube | Instagram (teaser),Masterclass Pillar,FULL HOST
+36,masterclasses/04_Guru_Master_Integration,Facebook | YouTube | Instagram (teaser),Masterclass Pillar,FULL HOST

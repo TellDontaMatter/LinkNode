@@ -1,0 +1,361 @@
+{
+  "project": "LinkNode Production Package v2",
+  "face_rule": "Face Behind The Voice",
+  "total_assets": 30,
+  "schedule": [
+    {
+      "day": 1,
+      "asset": "memes/meme_01",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 2,
+      "asset": "memes/meme_02",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 3,
+      "asset": "memes/meme_03",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 4,
+      "asset": "memes/meme_04",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 5,
+      "asset": "memes/meme_05",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 6,
+      "asset": "memes/meme_06",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 7,
+      "asset": "memes/meme_07",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 8,
+      "asset": "memes/meme_08",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "Threads"
+      ],
+      "format": "Still Meme",
+      "face_rule": "NO FACE",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 9,
+      "asset": "shorts_10s/short10_01",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 10,
+      "asset": "shorts_10s/short10_02",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 11,
+      "asset": "shorts_10s/short10_03",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 12,
+      "asset": "shorts_10s/short10_04",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 13,
+      "asset": "shorts_10s/short10_05",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 14,
+      "asset": "shorts_10s/short10_06",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 15,
+      "asset": "shorts_10s/short10_07",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 16,
+      "asset": "shorts_10s/short10_08",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 17,
+      "asset": "shorts_10s/short10_09",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels",
+        "Threads"
+      ],
+      "format": "10s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 18,
+      "asset": "shorts_30s/short30_01",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels"
+      ],
+      "format": "30s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 19,
+      "asset": "shorts_30s/short30_02",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels"
+      ],
+      "format": "30s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 20,
+      "asset": "shorts_30s/short30_03",
+      "platforms": [
+        "Instagram Reels",
+        "Facebook Reels"
+      ],
+      "format": "30s Short",
+      "face_rule": "VOICE ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 21,
+      "asset": "mid_form/mid_01",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "YouTube Shorts"
+      ],
+      "format": "90s Mid",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 22,
+      "asset": "mid_form/mid_02",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "YouTube Shorts"
+      ],
+      "format": "90s Mid",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 23,
+      "asset": "mid_form/mid_03",
+      "platforms": [
+        "Facebook",
+        "Instagram",
+        "YouTube Shorts"
+      ],
+      "format": "90s Mid",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 24,
+      "asset": "long_form/long_01",
+      "platforms": [
+        "Facebook",
+        "YouTube"
+      ],
+      "format": "3-5 min Long",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 25,
+      "asset": "long_form/long_02",
+      "platforms": [
+        "Facebook",
+        "YouTube"
+      ],
+      "format": "3-5 min Long",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 26,
+      "asset": "long_form/long_03",
+      "platforms": [
+        "Facebook",
+        "YouTube"
+      ],
+      "format": "3-5 min Long",
+      "face_rule": "FACE HOOK/CLOSER ONLY",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 27,
+      "asset": "masterclasses/01_LinkNode_Build",
+      "platforms": [
+        "Facebook",
+        "YouTube",
+        "Instagram (teaser)"
+      ],
+      "format": "Masterclass Pillar",
+      "face_rule": "FULL HOST",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 30,
+      "asset": "masterclasses/02_Git_Repo_Build",
+      "platforms": [
+        "Facebook",
+        "YouTube",
+        "Instagram (teaser)"
+      ],
+      "format": "Masterclass Pillar",
+      "face_rule": "FULL HOST",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 33,
+      "asset": "masterclasses/03_Git_Hosting",
+      "platforms": [
+        "Facebook",
+        "YouTube",
+        "Instagram (teaser)"
+      ],
+      "format": "Masterclass Pillar",
+      "face_rule": "FULL HOST",
+      "caption_file": "scheduling/captions.md"
+    },
+    {
+      "day": 36,
+      "asset": "masterclasses/04_Guru_Master_Integration",
+      "platforms": [
+        "Facebook",
+        "YouTube",
+        "Instagram (teaser)"
+      ],
+      "format": "Masterclass Pillar",
+      "face_rule": "FULL HOST",
+      "caption_file": "scheduling/captions.md"
+    }
+  ]
+}
