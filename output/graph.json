@@ -1447,6 +1447,122 @@
     {
       "id": "status.json",
       "group": 2
+    },
+    {
+      "id": "InnerBanksExchange repo",
+      "group": 2
+    },
+    {
+      "id": "Firebase thruket-site1",
+      "group": 2
+    },
+    {
+      "id": "Netlify",
+      "group": 2
+    },
+    {
+      "id": "Firestore",
+      "group": 2
+    },
+    {
+      "id": "Firebase Auth",
+      "group": 2
+    },
+    {
+      "id": "Firestore rules",
+      "group": 2
+    },
+    {
+      "id": "IBX Help",
+      "group": 2
+    },
+    {
+      "id": "Suffsa",
+      "group": 2
+    },
+    {
+      "id": "Route | Philc",
+      "group": 2
+    },
+    {
+      "id": "S.E.E. Engine",
+      "group": 2
+    },
+    {
+      "id": "City Pay",
+      "group": 2
+    },
+    {
+      "id": "Project sync",
+      "group": 2
+    },
+    {
+      "id": "localStorage",
+      "group": 2
+    },
+    {
+      "id": "Cloudflare Pages",
+      "group": 2
+    },
+    {
+      "id": "Firebase Hosting",
+      "group": 2
+    },
+    {
+      "id": "Flagship check",
+      "group": 2
+    },
+    {
+      "id": "Auto-approve guardrails",
+      "group": 2
+    },
+    {
+      "id": "inventoryItems",
+      "group": 2
+    },
+    {
+      "id": "Mark Sold",
+      "group": 2
+    },
+    {
+      "id": "Fix photo",
+      "group": 2
+    },
+    {
+      "id": "Data URL photos",
+      "group": 2
+    },
+    {
+      "id": "posts",
+      "group": 2
+    },
+    {
+      "id": "Daily cap of 20",
+      "group": 2
+    },
+    {
+      "id": "Post categories",
+      "group": 2
+    },
+    {
+      "id": "County tags",
+      "group": 2
+    },
+    {
+      "id": "Comment moderation",
+      "group": 2
+    },
+    {
+      "id": "comments",
+      "group": 2
+    },
+    {
+      "id": "Reports",
+      "group": 2
+    },
+    {
+      "id": "spotlights",
+      "group": 2
     }
   ],
   "links": [
@@ -3477,6 +3593,234 @@
     {
       "source": "status.json",
       "target": "IBX News Wire"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "InnerBanksExchange repo"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Firebase thruket-site1"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Netlify"
+    },
+    {
+      "source": "Firebase thruket-site1",
+      "target": "Firestore"
+    },
+    {
+      "source": "Firebase thruket-site1",
+      "target": "Firebase Auth"
+    },
+    {
+      "source": "Admin login",
+      "target": "Firebase Auth"
+    },
+    {
+      "source": "Firestore rules",
+      "target": "Firestore"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Firestore rules"
+    },
+    {
+      "source": "InnerBanksExchange repo",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "InnerBanksExchange repo",
+      "target": "IBX Connect"
+    },
+    {
+      "source": "InnerBanksExchange repo",
+      "target": "IBX Help"
+    },
+    {
+      "source": "InnerBanksExchange repo",
+      "target": "Suffsa"
+    },
+    {
+      "source": "Help Wanted board",
+      "target": "IBX Help"
+    },
+    {
+      "source": "Projects",
+      "target": "IBX Connect"
+    },
+    {
+      "source": "Projects",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "Projects",
+      "target": "IBX Help"
+    },
+    {
+      "source": "Projects",
+      "target": "Suffsa"
+    },
+    {
+      "source": "Projects",
+      "target": "Route | Philc"
+    },
+    {
+      "source": "Projects",
+      "target": "S.E.E. Engine"
+    },
+    {
+      "source": "Projects",
+      "target": "City Pay"
+    },
+    {
+      "source": "Projects",
+      "target": "Project sync"
+    },
+    {
+      "source": "Project sync",
+      "target": "Firestore"
+    },
+    {
+      "source": "Project sync",
+      "target": "localStorage"
+    },
+    {
+      "source": "Suffsa",
+      "target": "Netlify"
+    },
+    {
+      "source": "Route | Philc",
+      "target": "Netlify"
+    },
+    {
+      "source": "City Pay",
+      "target": "Cloudflare Pages"
+    },
+    {
+      "source": "S.E.E. Engine",
+      "target": "Firebase Hosting"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Flagship check"
+    },
+    {
+      "source": "Flagship check",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "Flagship check",
+      "target": "IBX Connect"
+    },
+    {
+      "source": "Flagship check",
+      "target": "Auto-approve guardrails"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "inventoryItems"
+    },
+    {
+      "source": "inventoryItems",
+      "target": "Firestore"
+    },
+    {
+      "source": "IBX Shop",
+      "target": "inventoryItems"
+    },
+    {
+      "source": "Unsold items",
+      "target": "Mark Sold"
+    },
+    {
+      "source": "Unsold items",
+      "target": "Fix photo"
+    },
+    {
+      "source": "Photo upload",
+      "target": "Data URL photos"
+    },
+    {
+      "source": "Post moderation",
+      "target": "posts"
+    },
+    {
+      "source": "posts",
+      "target": "Firestore"
+    },
+    {
+      "source": "Post moderation",
+      "target": "Auto-approve guardrails"
+    },
+    {
+      "source": "Auto-approve guardrails",
+      "target": "Daily cap of 20"
+    },
+    {
+      "source": "Post moderation",
+      "target": "Post categories"
+    },
+    {
+      "source": "Post categories",
+      "target": "County tags"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Comment moderation"
+    },
+    {
+      "source": "Comment moderation",
+      "target": "comments"
+    },
+    {
+      "source": "comments",
+      "target": "Firestore"
+    },
+    {
+      "source": "Comments toggle",
+      "target": "Comment moderation"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Reports"
+    },
+    {
+      "source": "Reports",
+      "target": "Firestore"
+    },
+    {
+      "source": "Reports",
+      "target": "Post moderation"
+    },
+    {
+      "source": "Spotlight",
+      "target": "spotlights"
+    },
+    {
+      "source": "spotlights",
+      "target": "Firestore"
+    },
+    {
+      "source": "Backup",
+      "target": "inventoryItems"
+    },
+    {
+      "source": "Backup",
+      "target": "posts"
+    },
+    {
+      "source": "Backup",
+      "target": "spotlights"
+    },
+    {
+      "source": "Backup",
+      "target": "comments"
+    },
+    {
+      "source": "Backup",
+      "target": "Reports"
     }
   ]
 }
