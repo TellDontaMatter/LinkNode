@@ -5,6 +5,178 @@
       "group": 1
     },
     {
+      "id": "ProjectAlfa",
+      "group": 1
+    },
+    {
+      "id": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "group": 1
+    },
+    {
+      "id": "Qwen_Production_Instruction_Capsule",
+      "group": 1
+    },
+    {
+      "id": "README_FOR_MUSE",
+      "group": 1
+    },
+    {
+      "id": "long_01",
+      "group": 1
+    },
+    {
+      "id": "long_02",
+      "group": 1
+    },
+    {
+      "id": "long_03",
+      "group": 1
+    },
+    {
+      "id": "01_LinkNode_Build",
+      "group": 1
+    },
+    {
+      "id": "02_Git_Repo_Build",
+      "group": 1
+    },
+    {
+      "id": "03_Git_Hosting",
+      "group": 1
+    },
+    {
+      "id": "04_Guru_Master_Integration",
+      "group": 1
+    },
+    {
+      "id": "meme_01_local_ai_vs_cloud_privacy",
+      "group": 1
+    },
+    {
+      "id": "meme_02_your_notes_are_a_graph",
+      "group": 1
+    },
+    {
+      "id": "meme_03_markdown_is_the_database",
+      "group": 1
+    },
+    {
+      "id": "meme_04_git_rm_-r_--cached_",
+      "group": 1
+    },
+    {
+      "id": "meme_05_crdownload_ate_my_repo",
+      "group": 1
+    },
+    {
+      "id": "meme_06_ollama_on_port_11434",
+      "group": 1
+    },
+    {
+      "id": "meme_07_git_index_limit",
+      "group": 1
+    },
+    {
+      "id": "meme_08_own_your_notes",
+      "group": 1
+    },
+    {
+      "id": "mid_01",
+      "group": 1
+    },
+    {
+      "id": "mid_02",
+      "group": 1
+    },
+    {
+      "id": "mid_03",
+      "group": 1
+    },
+    {
+      "id": "captions",
+      "group": 1
+    },
+    {
+      "id": "short10_01",
+      "group": 1
+    },
+    {
+      "id": "short10_02",
+      "group": 1
+    },
+    {
+      "id": "short10_03",
+      "group": 1
+    },
+    {
+      "id": "short10_04",
+      "group": 1
+    },
+    {
+      "id": "short10_05",
+      "group": 1
+    },
+    {
+      "id": "short10_06",
+      "group": 1
+    },
+    {
+      "id": "short10_07",
+      "group": 1
+    },
+    {
+      "id": "short10_08",
+      "group": 1
+    },
+    {
+      "id": "short10_09",
+      "group": 1
+    },
+    {
+      "id": "short30_01",
+      "group": 1
+    },
+    {
+      "id": "short30_02",
+      "group": 1
+    },
+    {
+      "id": "short30_03",
+      "group": 1
+    },
+    {
+      "id": "stinger_01",
+      "group": 1
+    },
+    {
+      "id": "stinger_02",
+      "group": 1
+    },
+    {
+      "id": "stinger_03",
+      "group": 1
+    },
+    {
+      "id": "stinger_04",
+      "group": 1
+    },
+    {
+      "id": "stinger_05",
+      "group": 1
+    },
+    {
+      "id": "stinger_06",
+      "group": 1
+    },
+    {
+      "id": "stinger_07",
+      "group": 1
+    },
+    {
+      "id": "stinger_08",
+      "group": 1
+    },
+    {
       "id": "Project Alpha Overview",
       "group": 2
     },
@@ -21,10 +193,6 @@
       "group": 2
     },
     {
-      "id": "ProjectAlfa",
-      "group": 1
-    },
-    {
       "id": "Project Alpha",
       "group": 2
     },
@@ -35,10 +203,6 @@
     {
       "id": "Local AI",
       "group": 2
-    },
-    {
-      "id": "LinkNode-Face-Behind-Voice-Capsule-V2",
-      "group": 1
     },
     {
       "id": "LinkNode",
@@ -105,10 +269,6 @@
       "group": 2
     },
     {
-      "id": "Qwen_Production_Instruction_Capsule",
-      "group": 1
-    },
-    {
       "id": "multi-tier production package generator",
       "group": 2
     },
@@ -153,15 +313,7 @@
       "group": 2
     },
     {
-      "id": "mid-form explainers",
-      "group": 2
-    },
-    {
       "id": "long-form explainers",
-      "group": 2
-    },
-    {
-      "id": "core pillar masterclass videos",
       "group": 2
     },
     {
@@ -183,10 +335,6 @@
     {
       "id": "ElevenLabs pacing and tone",
       "group": 2
-    },
-    {
-      "id": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "group": 1
     },
     {
       "id": "LinkNode Production Capsule",
@@ -217,10 +365,6 @@
       "group": 2
     },
     {
-      "id": "README_FOR_MUSE",
-      "group": 1
-    },
-    {
       "id": "MUSE",
       "group": 2
     },
@@ -242,10 +386,6 @@
     },
     {
       "id": "Threads",
-      "group": 2
-    },
-    {
-      "id": "memes",
       "group": 2
     },
     {
@@ -317,10 +457,6 @@
       "group": 2
     },
     {
-      "id": "long_01",
-      "group": 1
-    },
-    {
       "id": "Git Repository Build",
       "group": 2
     },
@@ -361,10 +497,6 @@
       "group": 2
     },
     {
-      "id": "long_02",
-      "group": 1
-    },
-    {
       "id": "Face Rule",
       "group": 2
     },
@@ -401,20 +533,12 @@
       "group": 2
     },
     {
-      "id": "long_03",
-      "group": 1
-    },
-    {
       "id": "deployment",
       "group": 2
     },
     {
       "id": "hosting",
       "group": 2
-    },
-    {
-      "id": "01_LinkNode_Build",
-      "group": 1
     },
     {
       "id": "LinkNode Build",
@@ -425,19 +549,11 @@
       "group": 2
     },
     {
-      "id": "architecture",
-      "group": 2
-    },
-    {
       "id": "app.py Parser",
       "group": 2
     },
     {
       "id": "Ollama Integration",
-      "group": 2
-    },
-    {
-      "id": "D3 Render",
       "group": 2
     },
     {
@@ -455,10 +571,6 @@
     {
       "id": "thumbnail",
       "group": 2
-    },
-    {
-      "id": "02_Git_Repo_Build",
-      "group": 1
     },
     {
       "id": "Repository",
@@ -483,10 +595,6 @@
     {
       "id": "Git LFS",
       "group": 2
-    },
-    {
-      "id": "03_Git_Hosting",
-      "group": 1
     },
     {
       "id": "Git Hosting",
@@ -517,10 +625,6 @@
       "group": 2
     },
     {
-      "id": "04_Guru_Master_Integration",
-      "group": 1
-    },
-    {
       "id": "Knowledge Graph",
       "group": 2
     },
@@ -531,10 +635,6 @@
     {
       "id": "Workflow",
       "group": 2
-    },
-    {
-      "id": "meme_01_local_ai_vs_cloud_privacy",
-      "group": 1
     },
     {
       "id": "Cloud Privacy",
@@ -551,10 +651,6 @@
     {
       "id": "Build In Public",
       "group": 2
-    },
-    {
-      "id": "meme_02_your_notes_are_a_graph",
-      "group": 1
     },
     {
       "id": "your notes are a graph",
@@ -575,30 +671,6 @@
     {
       "id": "clean folder icons",
       "group": 2
-    },
-    {
-      "id": "local AI",
-      "group": 2
-    },
-    {
-      "id": "obsidian",
-      "group": 2
-    },
-    {
-      "id": "python",
-      "group": 2
-    },
-    {
-      "id": "git",
-      "group": 2
-    },
-    {
-      "id": "build in public",
-      "group": 2
-    },
-    {
-      "id": "meme_03_markdown_is_the_database",
-      "group": 1
     },
     {
       "id": "Markdown",
@@ -633,10 +705,6 @@
       "group": 2
     },
     {
-      "id": "meme_04_git_rm_-r_--cached_",
-      "group": 1
-    },
-    {
       "id": "git rm -r --cached",
       "group": 2
     },
@@ -647,10 +715,6 @@
     {
       "id": "uncache it",
       "group": 2
-    },
-    {
-      "id": "meme_05_crdownload_ate_my_repo",
-      "group": 1
     },
     {
       "id": "meme",
@@ -673,10 +737,6 @@
       "group": 2
     },
     {
-      "id": "meme_06_ollama_on_port_11434",
-      "group": 1
-    },
-    {
       "id": "Port 11434",
       "group": 2
     },
@@ -693,32 +753,12 @@
       "group": 2
     },
     {
-      "id": "meme_07_git_index_limit",
-      "group": 1
-    },
-    {
       "id": "git index limit",
       "group": 2
     },
     {
       "id": "git reset",
       "group": 2
-    },
-    {
-      "id": "linknode",
-      "group": 2
-    },
-    {
-      "id": "localai",
-      "group": 2
-    },
-    {
-      "id": "localfirst",
-      "group": 2
-    },
-    {
-      "id": "meme_08_own_your_notes",
-      "group": 1
     },
     {
       "id": "OWN_YOUR_NOTES",
@@ -745,38 +785,6 @@
       "group": 2
     },
     {
-      "id": "LINKNODE_BUILD",
-      "group": 2
-    },
-    {
-      "id": "GIT_REPO_BUILD",
-      "group": 2
-    },
-    {
-      "id": "LOCAL_AI",
-      "group": 2
-    },
-    {
-      "id": "LOCAL_FIRST",
-      "group": 2
-    },
-    {
-      "id": "OBSIDIAN",
-      "group": 2
-    },
-    {
-      "id": "PYTHON",
-      "group": 2
-    },
-    {
-      "id": "BUILD_IN_PUBLIC",
-      "group": 2
-    },
-    {
-      "id": "mid_01",
-      "group": 1
-    },
-    {
       "id": "Body",
       "group": 2
     },
@@ -793,18 +801,6 @@
       "group": 2
     },
     {
-      "id": "mid_02",
-      "group": 1
-    },
-    {
-      "id": "file sizes",
-      "group": 2
-    },
-    {
-      "id": "mid_03",
-      "group": 1
-    },
-    {
       "id": "cloud",
       "group": 2
     },
@@ -819,10 +815,6 @@
     {
       "id": "D3 graph",
       "group": 2
-    },
-    {
-      "id": "captions",
-      "group": 1
     },
     {
       "id": "CloudPrivacy",
@@ -877,10 +869,6 @@
       "group": 2
     },
     {
-      "id": "short10_01",
-      "group": 1
-    },
-    {
       "id": "git rm -r --cached .",
       "group": 2
     },
@@ -891,18 +879,6 @@
     {
       "id": "screen capture",
       "group": 2
-    },
-    {
-      "id": "short10_02",
-      "group": 1
-    },
-    {
-      "id": "Git index limit",
-      "group": 2
-    },
-    {
-      "id": "short10_03",
-      "group": 1
     },
     {
       "id": "Short 10s",
@@ -921,26 +897,6 @@
       "group": 2
     },
     {
-      "id": "Graph",
-      "group": 2
-    },
-    {
-      "id": "local-first",
-      "group": 2
-    },
-    {
-      "id": "short10_04",
-      "group": 1
-    },
-    {
-      "id": "localhost",
-      "group": 2
-    },
-    {
-      "id": "short10_05",
-      "group": 1
-    },
-    {
       "id": "double brackets",
       "group": 2
     },
@@ -953,32 +909,8 @@
       "group": 2
     },
     {
-      "id": "short10_06",
-      "group": 1
-    },
-    {
-      "id": "Terminal",
-      "group": 2
-    },
-    {
       "id": "Node",
       "group": 2
-    },
-    {
-      "id": "Edge",
-      "group": 2
-    },
-    {
-      "id": "Screen capture",
-      "group": 2
-    },
-    {
-      "id": "Voiceover",
-      "group": 2
-    },
-    {
-      "id": "short10_07",
-      "group": 1
     },
     {
       "id": "D3.js",
@@ -993,24 +925,12 @@
       "group": 2
     },
     {
-      "id": "short10_08",
-      "group": 1
-    },
-    {
       "id": "gitignore",
-      "group": 2
-    },
-    {
-      "id": "version_control",
       "group": 2
     },
     {
       "id": "coding_practices",
       "group": 2
-    },
-    {
-      "id": "short10_09",
-      "group": 1
     },
     {
       "id": "Vertical 9:16",
@@ -1029,10 +949,6 @@
       "group": 2
     },
     {
-      "id": "short30_01",
-      "group": 1
-    },
-    {
       "id": ".crdownload file",
       "group": 2
     },
@@ -1045,35 +961,15 @@
       "group": 2
     },
     {
-      "id": "short30_02",
-      "group": 1
-    },
-    {
-      "id": "short30_03",
-      "group": 1
-    },
-    {
       "id": "No Cloud",
       "group": 2
-    },
-    {
-      "id": "stinger_01",
-      "group": 1
     },
     {
       "id": "Motion graphic",
       "group": 2
     },
     {
-      "id": "stinger_02",
-      "group": 1
-    },
-    {
       "id": "Stinger 2",
-      "group": 2
-    },
-    {
-      "id": "motion graphic",
       "group": 2
     },
     {
@@ -1097,10 +993,6 @@
       "group": 2
     },
     {
-      "id": "stinger_03",
-      "group": 1
-    },
-    {
       "id": "Stinger 3",
       "group": 2
     },
@@ -1109,20 +1001,12 @@
       "group": 2
     },
     {
-      "id": " Shorts / Mids / Longs",
+      "id": "Shorts / Mids / Longs",
       "group": 2
-    },
-    {
-      "id": "stinger_04",
-      "group": 1
     },
     {
       "id": "Stinger 4",
       "group": 2
-    },
-    {
-      "id": "stinger_05",
-      "group": 1
     },
     {
       "id": "Stinger 5",
@@ -1131,10 +1015,6 @@
     {
       "id": "repo deletion",
       "group": 2
-    },
-    {
-      "id": "stinger_06",
-      "group": 1
     },
     {
       "id": "Stinger 6",
@@ -1165,39 +1045,11 @@
       "group": 2
     },
     {
-      "id": "Cold open",
-      "group": 2
-    },
-    {
-      "id": "Scene transition",
-      "group": 2
-    },
-    {
-      "id": "End card",
-      "group": 2
-    },
-    {
-      "id": "stinger_07",
-      "group": 1
-    },
-    {
       "id": "Stinger 7",
       "group": 2
     },
     {
-      "id": "Git Index",
-      "group": 2
-    },
-    {
-      "id": "stinger_08",
-      "group": 1
-    },
-    {
       "id": "Stinger 8",
-      "group": 2
-    },
-    {
-      "id": "Own Your Notes",
       "group": 2
     },
     {
@@ -1219,6 +1071,290 @@
     {
       "id": "Use",
       "group": 2
+    },
+    {
+      "id": "Python Documentation",
+      "group": 3
+    },
+    {
+      "id": "Local AI Explanation",
+      "group": 3
+    },
+    {
+      "id": "NumPy Documentation",
+      "group": 3
+    },
+    {
+      "id": "Pandas Documentation",
+      "group": 3
+    },
+    {
+      "id": "TensorFlow Documentation",
+      "group": 3
+    },
+    {
+      "id": "LinkNode-Face-Behind-Voice-Capsule-V1",
+      "group": 3
+    },
+    {
+      "id": "C:\\LinkNode\\notes",
+      "group": 3
+    },
+    {
+      "id": "telldontamatter.github.io/LinkNode",
+      "group": 3
+    },
+    {
+      "id": "local AI vs. cloud privacy",
+      "group": 3
+    },
+    {
+      "id": "markdown note-hoarding",
+      "group": 3
+    },
+    {
+      "id": "Git workflow struggles",
+      "group": 3
+    },
+    {
+      "id": "clearing .crdownload files",
+      "group": 3
+    },
+    {
+      "id": "fixing Git index limits",
+      "group": 3
+    },
+    {
+      "id": "local Ollama endpoints",
+      "group": 3
+    },
+    {
+      "id": "LinkNode Build Video",
+      "group": 3
+    },
+    {
+      "id": "Git Repository Build Video",
+      "group": 3
+    },
+    {
+      "id": "Git Hosting Video",
+      "group": 3
+    },
+    {
+      "id": "The Guru Video (Master Integration)",
+      "group": 3
+    },
+    {
+      "id": "Pipeline Architecture",
+      "group": 3
+    },
+    {
+      "id": "Tooling",
+      "group": 3
+    },
+    {
+      "id": "Local Python + Ollama (qwen2.5:7b) + Obsidian-style [[ ]] links",
+      "group": 3
+    },
+    {
+      "id": "Python `pathlib`, `re`, `json`, `urllib.request`",
+      "group": 3
+    },
+    {
+      "id": "Oldman (qwen2.5:7b) on port 11434",
+      "group": 3
+    },
+    {
+      "id": "Local Git Repositories on Windows",
+      "group": 3
+    },
+    {
+      "id": "Cleaned .gitignore rules",
+      "group": 3
+    },
+    {
+      "id": "Excluding .crdownload, large binaries, .DS_Store",
+      "group": 3
+    },
+    {
+      "id": "Deployed live via GitHub Pages",
+      "group": 3
+    },
+    {
+      "id": "Rendered at github.io/LinkNode/",
+      "group": 3
+    },
+    {
+      "id": "The Guru Video Master Integration",
+      "group": 3
+    },
+    {
+      "id": "long-form explainer",
+      "group": 3
+    },
+    {
+      "id": "long-form content creation",
+      "group": 3
+    },
+    {
+      "id": "voiceover production",
+      "group": 3
+    },
+    {
+      "id": "code explanation",
+      "group": 3
+    },
+    {
+      "id": "web_development",
+      "group": 3
+    },
+    {
+      "id": "LinkNodeGITBuildScript.txt",
+      "group": 3
+    },
+    {
+      "id": "Development Best Practices",
+      "group": 3
+    },
+    {
+      "id": "Video Content Creation",
+      "group": 3
+    },
+    {
+      "id": "User Experience",
+      "group": 3
+    },
+    {
+      "id": "integration",
+      "group": 3
+    },
+    {
+      "id": "Masterclass 1 (LinkNode Build)",
+      "group": 3
+    },
+    {
+      "id": "Masterclass 2 (Git Repo Build)",
+      "group": 3
+    },
+    {
+      "id": "Masterclass 1",
+      "group": 3
+    },
+    {
+      "id": "Masterclass 2",
+      "group": 3
+    },
+    {
+      "id": "90s Explainer",
+      "group": 3
+    },
+    {
+      "id": "git_version_control",
+      "group": 3
+    },
+    {
+      "id": "data security",
+      "group": 3
+    },
+    {
+      "id": "muse_schedule",
+      "group": 3
+    },
+    {
+      "id": "terminal commands",
+      "group": 3
+    },
+    {
+      "id": "What Is LinkNode",
+      "group": 3
+    },
+    {
+      "id": "LinkNode, local-first",
+      "group": 3
+    },
+    {
+      "id": "video_format",
+      "group": 3
+    },
+    {
+      "id": "git_commands",
+      "group": 3
+    },
+    {
+      "id": "exclusion_rules",
+      "group": 3
+    },
+    {
+      "id": "tiktok_content_types",
+      "group": 3
+    },
+    {
+      "id": "Short 3",
+      "group": 3
+    },
+    {
+      "id": "Short 5",
+      "group": 3
+    },
+    {
+      "id": "Short 6",
+      "group": 3
+    },
+    {
+      "id": "Short 4",
+      "group": 3
+    },
+    {
+      "id": "Short 7",
+      "group": 3
+    },
+    {
+      "id": "Short 9",
+      "group": 3
+    },
+    {
+      "id": "Stinger 1",
+      "group": 3
+    },
+    {
+      "id": "motion graphics design",
+      "group": 3
+    },
+    {
+      "id": "graph theory",
+      "group": 3
+    },
+    {
+      "id": "transition effects",
+      "group": 3
+    },
+    {
+      "id": "video content types",
+      "group": 3
+    },
+    {
+      "id": "Stinger",
+      "group": 3
+    },
+    {
+      "id": "motion design",
+      "group": 3
+    },
+    {
+      "id": "content transition",
+      "group": 3
+    },
+    {
+      "id": "Meme 4",
+      "group": 3
+    },
+    {
+      "id": "Meme 5",
+      "group": 3
+    },
+    {
+      "id": "Meme 7",
+      "group": 3
     }
   ],
   "links": [
@@ -1272,7 +1408,7 @@
     },
     {
       "source": "ProjectAlfa",
-      "target": "automation workflows"
+      "target": "Automation Workflows"
     },
     {
       "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
@@ -1388,7 +1524,7 @@
     },
     {
       "source": "Qwen_Production_Instruction_Capsule",
-      "target": "mid-form explainers"
+      "target": "Mid-Form Explainers"
     },
     {
       "source": "Qwen_Production_Instruction_Capsule",
@@ -1396,7 +1532,7 @@
     },
     {
       "source": "Qwen_Production_Instruction_Capsule",
-      "target": "core pillar masterclass videos"
+      "target": "Core Pillar Masterclass Videos"
     },
     {
       "source": "Qwen_Production_Instruction_Capsule",
@@ -1471,131 +1607,99 @@
       "target": "The Guru Video (Master Integration)"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "LinkNode Production Capsule"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Host \u2014 Role Lock"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Voice Profile"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Project Context"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Audio Production Format"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Operating Rules"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Phase 1: Visual / Graphic Assets"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Phase 2: Short-Form Social Clips / Shorts"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Phase 3: Mid-Form / Long-Form Explainers"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Phase 4: Core Pillar Masterclass Videos"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Thumbnail Rule"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Changes in v2"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Pipeline Architecture"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Tooling"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Local Python + Ollama (qwen2.5:7b) + Obsidian-style [[ ]] links"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Python `pathlib`, `re`, `json`, `urllib.request`"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Oldman (qwen2.5:7b) on port 11434"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Local Git Repositories on Windows"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Cleaned .gitignore rules"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Excluding .crdownload, large binaries, .DS_Store"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Deployed live via GitHub Pages"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Rendered at github.io/LinkNode/"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Still Memes"
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "still memes"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Video Stingers"
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "video stingers"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Short-Form Videos"
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
+      "target": "long-form explainers"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Mid-Form Explainers"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Long-Form Explainers"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
-      "target": "Core Pillar Masterclass Videos"
-    },
-    {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "LinkNode Build Video"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Git Repository Build Video"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "Git Hosting Video"
     },
     {
-      "source": "LinkNode_Face_Behind_Voice_Capsule_v2",
+      "source": "LinkNode-Face-Behind-Voice-Capsule-V2",
       "target": "The Guru Video Master Integration"
     },
     {
@@ -1624,7 +1728,7 @@
     },
     {
       "source": "README_FOR_MUSE",
-      "target": "memes"
+      "target": "Memes"
     },
     {
       "source": "README_FOR_MUSE",
@@ -1824,7 +1928,7 @@
     },
     {
       "source": "01_LinkNode_Build",
-      "target": "architecture"
+      "target": "Architecture"
     },
     {
       "source": "01_LinkNode_Build",
@@ -1836,7 +1940,7 @@
     },
     {
       "source": "01_LinkNode_Build",
-      "target": "D3 Render"
+      "target": "D3 render"
     },
     {
       "source": "01_LinkNode_Build",
@@ -1888,7 +1992,7 @@
     },
     {
       "source": "02_Git_Repo_Build",
-      "target": "Version Control"
+      "target": "version control"
     },
     {
       "source": "02_Git_Repo_Build",
@@ -1924,7 +2028,7 @@
     },
     {
       "source": "03_Git_Hosting",
-      "target": "Git Workflow"
+      "target": "Git workflow"
     },
     {
       "source": "03_Git_Hosting",
@@ -1932,7 +2036,7 @@
     },
     {
       "source": "03_Git_Hosting",
-      "target": "Web Development"
+      "target": "web_development"
     },
     {
       "source": "03_Git_Hosting",
@@ -2028,23 +2132,23 @@
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
-      "target": "local AI"
+      "target": "Local AI"
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
-      "target": "obsidian"
+      "target": "Obsidian"
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
-      "target": "python"
+      "target": "Python"
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
-      "target": "git"
+      "target": "Git"
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
-      "target": "build in public"
+      "target": "Build In Public"
     },
     {
       "source": "meme_02_your_notes_are_a_graph",
@@ -2156,7 +2260,7 @@
     },
     {
       "source": "meme_05_crdownload_ate_my_repo",
-      "target": "local AI"
+      "target": "Local AI"
     },
     {
       "source": "meme_05_crdownload_ate_my_repo",
@@ -2244,35 +2348,35 @@
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "linknode"
+      "target": "LinkNode"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "localai"
+      "target": "LocalAI"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "localfirst"
+      "target": "LocalFirst"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "obsidian"
+      "target": "Obsidian"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "python"
+      "target": "Python"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "git"
+      "target": "Git"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "masterclass 1"
+      "target": "Masterclass 1"
     },
     {
       "source": "meme_07_git_index_limit",
-      "target": "masterclass 2"
+      "target": "Masterclass 2"
     },
     {
       "source": "meme_08_own_your_notes",
@@ -2300,39 +2404,39 @@
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "LINKNODE_BUILD"
+      "target": "LinkNode Build"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "GIT_REPO_BUILD"
+      "target": "Git Repo Build"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "LOCAL_AI"
+      "target": "Local AI"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "LOCAL_FIRST"
+      "target": "Local First"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "OBSIDIAN"
+      "target": "Obsidian"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "PYTHON"
+      "target": "Python"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "BUILD_IN_PUBLIC"
+      "target": "Build In Public"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "masterclass_1"
+      "target": "Masterclass 1"
     },
     {
       "source": "meme_08_own_your_notes",
-      "target": "masterclass_2"
+      "target": "Masterclass 2"
     },
     {
       "source": "mid_01",
@@ -2388,7 +2492,7 @@
     },
     {
       "source": "mid_02",
-      "target": "file sizes"
+      "target": "File Sizes"
     },
     {
       "source": "mid_02",
@@ -2396,7 +2500,7 @@
     },
     {
       "source": "mid_03",
-      "target": "local AI"
+      "target": "Local AI"
     },
     {
       "source": "mid_03",
@@ -2520,7 +2624,7 @@
     },
     {
       "source": "short10_02",
-      "target": "Git index limit"
+      "target": "git index limit"
     },
     {
       "source": "short10_02",
@@ -2532,7 +2636,7 @@
     },
     {
       "source": "short10_02",
-      "target": "Git version control"
+      "target": "git_version_control"
     },
     {
       "source": "short10_03",
@@ -2560,11 +2664,7 @@
     },
     {
       "source": "short10_03",
-      "target": "Graph"
-    },
-    {
-      "source": "short10_03",
-      "target": "local-first"
+      "target": "Local First"
     },
     {
       "source": "short10_03",
@@ -2576,7 +2676,7 @@
     },
     {
       "source": "short10_04",
-      "target": "localhost"
+      "target": "Localhost"
     },
     {
       "source": "short10_04",
@@ -2592,11 +2692,11 @@
     },
     {
       "source": "short10_04",
-      "target": "Graph"
+      "target": "graph"
     },
     {
       "source": "short10_04",
-      "target": "local-first"
+      "target": "Local First"
     },
     {
       "source": "short10_05",
@@ -2624,7 +2724,7 @@
     },
     {
       "source": "short10_05",
-      "target": "Graph"
+      "target": "graph"
     },
     {
       "source": "short10_05",
@@ -2644,7 +2744,7 @@
     },
     {
       "source": "short10_06",
-      "target": "Terminal"
+      "target": "terminal"
     },
     {
       "source": "short10_06",
@@ -2656,19 +2756,19 @@
     },
     {
       "source": "short10_06",
-      "target": "Edge"
+      "target": "edge"
     },
     {
       "source": "short10_06",
-      "target": "Screen capture"
+      "target": "screen capture"
     },
     {
       "source": "short10_06",
-      "target": "Voiceover"
+      "target": "voiceover"
     },
     {
       "source": "short10_06",
-      "target": "production_notes"
+      "target": "Production Notes"
     },
     {
       "source": "short10_06",
@@ -2676,7 +2776,7 @@
     },
     {
       "source": "short10_06",
-      "target": "face_rule"
+      "target": "Face Rule"
     },
     {
       "source": "short10_07",
@@ -2696,7 +2796,7 @@
     },
     {
       "source": "short10_07",
-      "target": "local-first"
+      "target": "Local First"
     },
     {
       "source": "short10_08",
@@ -2704,7 +2804,7 @@
     },
     {
       "source": "short10_08",
-      "target": "version_control"
+      "target": "version control"
     },
     {
       "source": "short10_08",
@@ -2732,7 +2832,7 @@
     },
     {
       "source": "short10_09",
-      "target": "Terminal"
+      "target": "terminal"
     },
     {
       "source": "short10_09",
@@ -2740,7 +2840,7 @@
     },
     {
       "source": "short10_09",
-      "target": "Graph"
+      "target": "graph"
     },
     {
       "source": "short10_09",
@@ -2760,11 +2860,11 @@
     },
     {
       "source": "short10_09",
-      "target": "local-first"
+      "target": "Local First"
     },
     {
       "source": "short10_09",
-      "target": "production_notes"
+      "target": "Production Notes"
     },
     {
       "source": "short10_09",
@@ -2792,7 +2892,7 @@
     },
     {
       "source": "short30_01",
-      "target": "git commands"
+      "target": "git_commands"
     },
     {
       "source": "short30_02",
@@ -2800,11 +2900,11 @@
     },
     {
       "source": "short30_02",
-      "target": "Graph"
+      "target": "graph"
     },
     {
       "source": "short30_02",
-      "target": "Voiceover"
+      "target": "voiceover"
     },
     {
       "source": "short30_02",
@@ -2868,7 +2968,7 @@
     },
     {
       "source": "stinger_02",
-      "target": "motion graphic"
+      "target": "Motion graphic"
     },
     {
       "source": "stinger_02",
@@ -2904,10 +3004,6 @@
     },
     {
       "source": "stinger_02",
-      "target": "Stinger 02"
-    },
-    {
-      "source": "stinger_02",
       "target": "motion graphics design"
     },
     {
@@ -2932,7 +3028,7 @@
     },
     {
       "source": "stinger_03",
-      "target": "motion graphic"
+      "target": "Motion graphic"
     },
     {
       "source": "stinger_03",
@@ -2940,7 +3036,7 @@
     },
     {
       "source": "stinger_03",
-      "target": " Shorts / Mids / Longs"
+      "target": "Shorts / Mids / Longs"
     },
     {
       "source": "stinger_03",
@@ -2964,7 +3060,7 @@
     },
     {
       "source": "stinger_04",
-      "target": "motion graphic"
+      "target": "Motion graphic"
     },
     {
       "source": "stinger_04",
@@ -2980,7 +3076,7 @@
     },
     {
       "source": "stinger_05",
-      "target": "motion graphic"
+      "target": "Motion graphic"
     },
     {
       "source": "stinger_05",
@@ -3040,27 +3136,27 @@
     },
     {
       "source": "stinger_06",
-      "target": "Cold open"
+      "target": "cold open"
     },
     {
       "source": "stinger_06",
-      "target": "Scene transition"
+      "target": "scene transition"
     },
     {
       "source": "stinger_06",
-      "target": "End card"
+      "target": "end card"
     },
     {
       "source": "stinger_06",
-      "target": " Shorts"
+      "target": "Shorts"
     },
     {
       "source": "stinger_06",
-      "target": " Mids"
+      "target": "Mids"
     },
     {
       "source": "stinger_06",
-      "target": " Longs"
+      "target": "Longs"
     },
     {
       "source": "stinger_07",
@@ -3068,7 +3164,7 @@
     },
     {
       "source": "stinger_07",
-      "target": "Git Index"
+      "target": "Git index"
     },
     {
       "source": "stinger_07",
@@ -3084,7 +3180,7 @@
     },
     {
       "source": "stinger_08",
-      "target": "Own Your Notes"
+      "target": "OWN_YOUR_NOTES"
     },
     {
       "source": "stinger_08",

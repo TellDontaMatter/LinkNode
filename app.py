@@ -103,6 +103,14 @@ def build_graph():
 
     nodes = []
     edges = []
+    canon = {}  # normalized key -> first label seen, so "Python"/"python"/"PYTHON" become one node
+
+    def label_for(name, group):
+        key = " ".join(str(name).lower().replace("_", " ").replace("-", " ").split())
+        if key not in canon:
+            canon[key] = str(name).strip()
+            nodes.append({"id": canon[key], "group": group})
+        return canon[key]
 
     # RECURSIVE SCAN: grabs .md files in root AND all subfolders like 27NOV2026
     md_files = list(NOTES_DIR.rglob("*.md"))
@@ -111,9 +119,8 @@ def build_graph():
         return
 
     for file_path in md_files:
-        title = file_path.stem
         content = file_path.read_text(encoding="utf-8", errors="ignore")
-        nodes.append({"id": title, "group": 1})
+        title = label_for(file_path.stem, 1)
 
         response_text = query_local_qwen(title, content)
         if response_text:
@@ -121,17 +128,18 @@ def build_graph():
                 clean_text = response_text.replace("```json", "").replace("```", "").strip()
                 response_data = json.loads(clean_text)
                 for concept in response_data.get("concepts", []):
-                    nodes.append({"id": concept, "group": 2})
-                    edges.append({"source": title, "target": concept})
+                    edges.append({"source": title, "target": label_for(concept, 2)})
+                # Every link target gets a node too; force-graph refuses to draw
+                # if any link points at an id that isn't in "nodes".
                 for link in response_data.get("links_to", []):
-                    edges.append({"source": title, "target": link})
+                    edges.append({"source": title, "target": label_for(link, 3)})
             except json.JSONDecodeError:
                 logging.error(f"Failed to parse Qwen response: {response_text}")
         else:
             logging.warning(f"No response from Qwen for note: {title}")
 
     # Deduplicate nodes and links to prevent graph fragmentation
-    unique_nodes = {n["id"]: n for n in nodes}.values()
+    unique_nodes = nodes  # already unique via label_for()
     
     seen_edges = set()
     unique_edges = []
@@ -143,7 +151,15 @@ def build_graph():
             seen_edges.add(edge_key)
             unique_edges.append({"source": source_id, "target": target_id})
 
-    graph_data = {"nodes": list(unique_nodes), "links": unique_edges}
+    # Safety net: never ship a link to a missing node (it blanks the whole page).
+    valid_node_ids = {n["id"] for n in unique_nodes}
+    clean_edges = [e for e in unique_edges
+                   if e["source"] in valid_node_ids and e["target"] in valid_node_ids]
+    dropped = len(unique_edges) - len(clean_edges)
+    if dropped:
+        logging.warning(f"Dropped {dropped} link(s) pointing at missing nodes")
+
+    graph_data = {"nodes": list(unique_nodes), "links": clean_edges}
     OUTPUT_JSON.write_text(json.dumps(graph_data, indent=2), encoding="utf-8")
     generate_d3_html()
     logging.info(f"SUCCESS: graph.json and index.html written to {OUTPUT_DIR}")
