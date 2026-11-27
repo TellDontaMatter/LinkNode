@@ -3,7 +3,7 @@
 **Face Rule:** NO HOST FACE — Text + Graph only
 **Top Text:** YOU SEE FILES
 **Bottom Text:** I SEE A GRAPH
-**Visual:** Dark background, messy folder icons top, clean D3.js force graph bottom. NO HOST FACE.
+**Visual:** Dark background, messy folder icons top, clean glowing network graph bottom. NO HOST FACE.
 **Caption Hook:** Your Notes Are A Graph — LinkNode keeps it local.
 **Platforms:** Facebook Feed, Instagram Feed, Threads (image + text)
 **Links To:** Masterclass 1 (LinkNode Build) / Masterclass 2 (Git Repo Build)
