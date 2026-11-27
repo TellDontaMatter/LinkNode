@@ -21,10 +21,28 @@ def get_folder_state(directory: Path):
             pass
     return state
 
+def pull_latest():
+    """Bring down anything changed on GitHub (online edits, Claude's PRs) before building.
+    Returns True if the local copy is up to date and safe to push from."""
+    res = subprocess.run(["git", "pull", "--rebase", "--autostash", "origin", "main"],
+                         cwd=str(REPO_DIR), capture_output=True, text=True)
+    if res.returncode == 0:
+        if "Already up to date" not in res.stdout:
+            print("[PULL] Got the latest changes from GitHub.")
+        return True
+    # Leave the folder clean instead of half-merged
+    subprocess.run(["git", "rebase", "--abort"], cwd=str(REPO_DIR), capture_output=True, text=True)
+    print(f"[ERROR] Could not pull from GitHub, so nothing was pushed:\n{res.stderr}")
+    return False
+
 def sync_and_deploy():
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n[{timestamp}] Change detected in notes! Rebuilding graph...")
-    
+
+    # 0. Pull first so the push can't be rejected for being behind
+    if not pull_latest():
+        return
+
     # 1. Run app.py to rebuild graph.json and Index.html
     build_res = subprocess.run(["py", str(APP_SCRIPT)], cwd=str(REPO_DIR), capture_output=True, text=True)
     if build_res.returncode != 0:
@@ -45,6 +63,9 @@ def sync_and_deploy():
     
     print("[PUSH] Pushing updates to GitHub...")
     push_res = subprocess.run(["git", "push", "origin", "main"], cwd=str(REPO_DIR), capture_output=True, text=True)
+    if push_res.returncode != 0 and pull_latest():
+        # Something landed on GitHub mid-build: pull it and try once more
+        push_res = subprocess.run(["git", "push", "origin", "main"], cwd=str(REPO_DIR), capture_output=True, text=True)
     if push_res.returncode == 0:
         print(f"[SUCCESS] Live graph updated! ({commit_msg})")
     else:
@@ -53,6 +74,7 @@ def sync_and_deploy():
 def main():
     print(f"Watching {NOTES_DIR} for new or modified markdown files...")
     print("Press Ctrl+C to stop.")
+    pull_latest()  # catch up on anything changed online while the watcher was off
     last_state = get_folder_state(NOTES_DIR)
     
     while True:
