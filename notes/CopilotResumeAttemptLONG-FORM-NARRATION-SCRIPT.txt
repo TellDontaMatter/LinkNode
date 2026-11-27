@@ -1,0 +1,38 @@
+THE ARTIFACT GAP - LONG FORM NARRATION TIMELINE - 9:15
+
+00:00-00:30 HOOK - H1 - User: Build the thing. AI: Let's discuss the thing.
+What if AI's biggest failure isn't being wrong? What if it gets everything right... except the thing you asked for?
+
+00:30-01:00 PROBLEM - H7 - Blueprint instead of house.
+
+01:00-01:30 EXPECTATION VS REALITY - H8 - Chef writing recipes while customer waits.
+
+01:30-02:00 FAILURE #1 Analysis Trap - H3 - Research mountain, tiny output folder.
+
+02:00-02:30 FAILURE #2 False Completion - H10 - Massive report, empty export folder.
+
+02:30-03:00 FAILURE #3 Final Mile - H5 - Runner stopping before finish line.
+
+03:00-03:30 WORKFLOW FAILURE MAP - H6 - REQUEST -> SEARCH -> ANALYZE -> STOP
+
+03:30-04:00 WORKFLOW DRIFT - S24 - Circular workflow
+
+04:00-04:30 HIDDEN PROBLEM - H2 - FOUND EVERYTHING NOT DELIVERED
+
+04:30-05:00 POWER USER QUESTION - H15 - Which step failed?
+
+05:00-05:30 FAILURE IDENTIFICATION - S29 - Workflow failure detector
+
+05:30-06:00 REPAIR - H13 - Missing gear
+
+06:00-06:30 SYSTEM ACTIVATION - H14 - Gear inserted, machine activates
+
+06:30-07:15 FRAMEWORK REVEAL - H16 - REQUEST -> DELIVERABLE -> DEPENDENCIES -> RETRIEVAL -> VERIFICATION -> ARTIFACT -> VALIDATION -> DELIVERY
+
+07:15-08:00 APPLICATIONS - S31 S32 - Spreadsheet PDF Website Presentation Report
+
+08:00-08:45 WHY THIS MATTERS - S20 S21 S22 - Empty downloads folder, infinite draft loop
+
+08:45-09:15 CTA - H4 H16 - Factory line completed, full framework visible. Close The Artifact Gap.
+
+ARTIFACT FIRST EXECUTION: CREATE THE THING. THEN TALK ABOUT IT.

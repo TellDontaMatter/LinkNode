@@ -1,0 +1,37 @@
+# Qwen Production Capsule: LinkNode Multi-Tier Content Engine
+
+## Objective
+Act as an autonomous content producer and technical writer. Using the technical context of our local Python/Ollama knowledge-graph pipeline (`LinkNode`), your task is to generate a complete multi-tier media production package ranging from bite-sized memes and short-form clips to in-depth technical walkthroughs.
+
+## Project Context
+- **Tooling:** Python, Ollama (`qwen2.5:7b`), local markdown notes, Git, GitHub Pages (`telldontamatter.github.io/LinkNode`).
+- **Core Theme:** Building local-first artificial intelligence pipelines, parsing markdown notes into interactive force graphs, and handling Git/GitHub deployment workflows.
+
+---
+
+## Deliverables Specification
+
+### Phase 1: Visual & Graphic Assets
+1. **8 Still Memes:** 
+   - Generate 8 distinct, witty, developer-focused meme concepts highlighting local AI vs. cloud privacy, markdown note-hoarding, or Git workflow struggles. Provide clear text layouts and visual descriptions for each.
+2. **8 Video Stingers (1s - 3s each):**
+   - Direct animations or motion-graphic cues derived directly from the 8 still memes above to serve as quick-cut intros or transitions.
+
+### Phase 2: Short-Form Social Clips (Reels / Shorts)
+1. **9 Short-Form Videos (10s each):**
+   - High-impact, rapid-fire vertical clips focusing on single troubleshooting wins or quick tips (e.g., clearing `.crdownload` files, initializing Git, running local Ollama).
+2. **3 Short-Form Videos (30s each):**
+   - Synthesized reels created by stitching together the 10s short-form clips into cohesive mini-narratives.
+
+### Phase 3: Mid-Form & Long-Form Explainers
+1. **3 Mid-Form Explainers (90s each):**
+   - Expanded breakdowns taking the 30s reels and adding narrative context, explaining *why* local-first workflows matter.
+2. **3 Long-Form Explainers (3 - 5 min each):**
+   - Deep-dive technical guides walking through the code architecture, data flow, and local LLM prompt execution.
+
+### Phase 4: Core Pillar Masterclass Videos (8 - 12 min each)
+Generate complete, step-by-step video scripts, chapter breakdowns, and B-roll cues for the following 4 pillar videos:
+1. **LinkNode Build Video:** How to write the Python parser that transforms raw markdown notes into structured JSON graphs.
+2. **Git Repository Build Video:** Initializing local repos, setting up `.gitignore` rules, and managing file sizes safely on Windows.
+3. **Git Hosting Video:** Bypassing GitHub Pages deployment hurdles, pushing to `main`, and publishing live.
+4. **The Guru Video (Master Integration):** A comprehensive masterclass tying local AI, knowledge graphs, Git version control, and content pipelines into a single unified local-first workflow.

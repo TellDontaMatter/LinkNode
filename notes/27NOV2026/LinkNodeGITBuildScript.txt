@@ -1,0 +1,221 @@
+# Video Script: Building LinkNode — Local Markdown to Knowledge Graph Pipeline
+
+**Target Runtime:** 10–12 minutes
+
+**Format:** 16:9 Screen Capture + Technical Walkthrough
+
+**Audio Voice Profile:** Calm, razor-sharp, zero hyperbole, developer-first.
+
+---
+
+## Cold Hook (00:00 - 00:30)
+
+**(Visual: High-contrast title card. Cut to a dark-mode VS Code window displaying messy raw markdown files in a local folder.)**
+
+**NARRATOR:**
+
+Your markdown notes are sitting in a folder. Thousands of lines of thoughts, code snippets, and ideas.
+
+You can search them. You can grep them.
+
+But you can't *see* how they connect.
+
+Today, we aren't uploading our notes to a black-box cloud service.
+
+We are writing a local Python and Ollama pipeline that parses raw markdown, extracts bidirectional relationships, builds a structured JSON knowledge graph, and renders it as an interactive visual web app.
+
+Completely local. Completely yours.
+
+Let's build LinkNode.
+
+---
+
+## Act 1: The Architecture & Local Setup (00:30 - 02:30)
+
+**(Visual: Terminal window opening PowerShell. Typing `cd C:\LinkNode` and showing directory tree.)**
+
+**NARRATOR:**
+
+Every good local pipeline starts with a clean architecture.
+
+We aren't using heavy frameworks or external cloud APIs. We are using standard Python libraries—`pathlib` for file routing, `re` for regular expression pattern matching, and `json` for data serialization—paired with a local Ollama instance running `qwen2.5:7b` right on port 11434.
+
+Let's look at the folder layout.
+
+```text
+C:\LinkNode\
+├── notes\         # Raw markdown files with [[ ]] links
+├── output\        # Generated graph.json and index.html
+└── app.py         # The core Python parsing pipeline
+
+```
+
+The goal of `app.py` is simple: scan every `.md` file in the notes directory, find every internal link, map out the nodes and edges, and output a clean JSON payload that a force-directed graph engine can render instantly in the browser.
+
+---
+
+## Act 2: Writing the Python Parser (`app.py`) (02:30 - 05:30)
+
+**(Visual: Code editor sliding into view. Highlighting the recursive file scanner and regex block.)**
+
+**NARRATOR:**
+
+Let's write the core parsing loop. We want our script to walk through `C:\LinkNode\notes`, read each file's content, and extract title headers and link patterns.
+
+```python
+import os
+import re
+import json
+from pathlib import Path
+
+NOTES_DIR = Path(r"C:\LinkNode\notes")
+OUTPUT_DIR = Path(r"C:\LinkNode\output")
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+def parse_markdown_notes():
+    nodes = []
+    edges = []
+    
+    # Regular expression to catch Obsidian-style bidirectional links [[LinkName]]
+    link_pattern = re.compile(r'\[\[(.*?)\]\]')
+    
+    for file_path in NOTES_DIR.glob("*.md"):
+        title = file_path.stem
+        content = file_path.read_text(encoding="utf-8", errors="ignore")
+        
+        # Add node
+        nodes.append({"id": title, "label": title, "path": str(file_path.name)})
+        
+        # Find all outgoing links
+        matches = link_pattern.findall(content)
+        for target in matches:
+            edges.append({"source": title, "target": target.strip()})
+            
+    graph_data = {"nodes": nodes, "edges": edges}
+    
+    output_file = OUTPUT_DIR / "graph.json"
+    output_file.write_text(json.dumps(graph_data, indent=2), encoding="utf-8")
+    print(f"Successfully compiled {len(nodes)} nodes and {len(edges)} edges into graph.json.")
+
+if __name__ == "__main__":
+    parse_markdown_notes()
+
+```
+
+Look at that simplicity. No database required. The filesystem *is* the database.
+
+---
+
+## Act 3: Integrating Local Ollama for Semantic Extraction (05:30 - 08:30)
+
+**(Visual: Terminal window showing Ollama running `qwen2.5:7b`. Code snippet showing API request to localhost:11434.)**
+
+**NARRATOR:**
+
+Extracting strict bracket links is great, but what if we want our local LLM to analyze unstructured text and suggest conceptual relationships?
+
+Because we run Ollama locally on port `11434`, we can pass note chunks directly to `qwen2.5:7b` without leaking a single byte of data to the internet.
+
+```python
+import urllib.request
+
+def query_local_ollama(prompt):
+    url = "http://localhost:11434/api/generate"
+    payload = {
+        "model": "qwen2.5:7b",
+        "prompt": prompt,
+        "stream": False
+    }
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode('utf-8'),
+        headers={'Content-Type': 'application/json'}
+    )
+    try:
+        with urllib.request.urlopen(req) as response:
+            result = json.loads(response.read().decode('utf-8'))
+            return result.get("response", "")
+    except Exception as e:
+        print(f"Ollama connection error: {e}")
+        return ""
+
+```
+
+With this function integrated into our pipeline, we can auto-tag notes, summarize key themes, or extract entities before generating our final JSON payload.
+
+---
+
+## Act 4: Rendering the Force Graph (`index.html`) (08:30 - 10:30)
+
+**(Visual: Browser opening `index.html` locally. Smooth force-directed nodes organizing themselves into a glowing cluster.)**
+
+**NARRATOR:**
+
+Once `graph.json` is generated, we need to display it. Using a lightweight D3.js force-simulation script inside `index.html`, we load our JSON payload and render an interactive canvas.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LinkNode Force Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body { background: #0f172a; color: #f8fafc; font-family: monospace; margin: 0; overflow: hidden; }
+        svg { width: 100vw; height: 100vh; }
+        .node { fill: #38bdf8; stroke: #0284c7; stroke-width: 2px; cursor: pointer; }
+        .link { stroke: #334155; stroke-opacity: 0.6; stroke-width: 1.5px; }
+        text { fill: #94a3b8; font-size: 12px; pointer-events: none; }
+    </style>
+</head>
+<body>
+<svg></svg>
+<script>
+    d3.json("graph.json").then(data => {
+        const width = window.innerWidth, height = window.innerHeight;
+        const svg = d3.select("svg");
+
+        const simulation = d3.forceSimulation(data.nodes)
+            .force("link", d3.forceLink(data.edges).id(d => d.id).distance(100))
+            .force("charge", d3.forceManyBody().strength(-300))
+            .force("center", d3.forceCenter(width / 2, height / 2));
+
+        const link = svg.append("g").selectAll("line").data(data.edges).enter().append("line").attr("class", "link");
+        const node = svg.append("g").selectAll("circle").data(data.nodes).enter().append("circle").attr("class", "node").attr("r", 8);
+        const text = svg.append("g").selectAll("text").data(data.nodes).enter().append("text").text(d => d.label).attr("dx", 12).attr("dy", 4);
+
+        simulation.on("tick", () => {
+            link.attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+            node.attr("cx", d => d.x).attr("cy", d => d.y);
+            text.attr("x", d => d.x).attr("y", d => d.y);
+        });
+    });
+</script>
+</body>
+</html>
+
+```
+
+---
+
+## Closing Beat (10:30 - 11:30)
+
+**(Visual: Terminal window pushing code to GitHub. Transition to live GitHub Pages URL rendering the graph successfully.)**
+
+**NARRATOR:**
+
+We wrote a local Python script, integrated local Ollama AI extraction, compiled a clean JSON graph, and rendered an interactive web visualization.
+
+No subscriptions. No servers. Total ownership of your notes.
+
+If you want the complete source code, check the GitHub repository link below.
+
+Like, subscribe, and keep your infrastructure local.
+
+*(Pause)*
+
+Oh, man.
+
+**(Visual: Heavy mechanical hit on title graphic sting.)**
+
+---
