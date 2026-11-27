@@ -1355,6 +1355,98 @@
     {
       "id": "Meme 7",
       "group": 3
+    },
+    {
+      "id": "IBX_Intake_Dashboard",
+      "group": 1
+    },
+    {
+      "id": "IBX Shop",
+      "group": 3
+    },
+    {
+      "id": "IBX Connect",
+      "group": 3
+    },
+    {
+      "id": "Help Wanted board",
+      "group": 3
+    },
+    {
+      "id": "IBX News Wire",
+      "group": 3
+    },
+    {
+      "id": "Community Board",
+      "group": 3
+    },
+    {
+      "id": "Admin login",
+      "group": 2
+    },
+    {
+      "id": "Site status sidebar",
+      "group": 2
+    },
+    {
+      "id": "Sync check",
+      "group": 2
+    },
+    {
+      "id": "Quick-jump bar",
+      "group": 2
+    },
+    {
+      "id": "Post moderation",
+      "group": 2
+    },
+    {
+      "id": "Inventory intake form",
+      "group": 2
+    },
+    {
+      "id": "Spotlight",
+      "group": 2
+    },
+    {
+      "id": "Unsold items",
+      "group": 2
+    },
+    {
+      "id": "Projects",
+      "group": 2
+    },
+    {
+      "id": "Import from another assistant",
+      "group": 2
+    },
+    {
+      "id": "Item categories",
+      "group": 2
+    },
+    {
+      "id": "Item grades",
+      "group": 2
+    },
+    {
+      "id": "Photo upload",
+      "group": 2
+    },
+    {
+      "id": "Stripe Payment Link",
+      "group": 2
+    },
+    {
+      "id": "Comments toggle",
+      "group": 2
+    },
+    {
+      "id": "Backup",
+      "group": 2
+    },
+    {
+      "id": "status.json",
+      "group": 2
     }
   ],
   "links": [
@@ -3229,6 +3321,162 @@
     {
       "source": "stinger_08",
       "target": "Longs"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "IBX Connect"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Help Wanted board"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "IBX News Wire"
+    },
+    {
+      "source": "IBX Connect",
+      "target": "Community Board"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Admin login"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Site status sidebar"
+    },
+    {
+      "source": "Site status sidebar",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "Site status sidebar",
+      "target": "IBX Connect"
+    },
+    {
+      "source": "Site status sidebar",
+      "target": "IBX News Wire"
+    },
+    {
+      "source": "Site status sidebar",
+      "target": "Sync check"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Quick-jump bar"
+    },
+    {
+      "source": "Quick-jump bar",
+      "target": "Post moderation"
+    },
+    {
+      "source": "Quick-jump bar",
+      "target": "Inventory intake form"
+    },
+    {
+      "source": "Quick-jump bar",
+      "target": "Spotlight"
+    },
+    {
+      "source": "Quick-jump bar",
+      "target": "Unsold items"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Post moderation"
+    },
+    {
+      "source": "Post moderation",
+      "target": "Community Board"
+    },
+    {
+      "source": "Post moderation",
+      "target": "Help Wanted board"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Projects"
+    },
+    {
+      "source": "Projects",
+      "target": "Import from another assistant"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Inventory intake form"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "Item categories"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "Item grades"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "Photo upload"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "Stripe Payment Link"
+    },
+    {
+      "source": "Inventory intake form",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Unsold items"
+    },
+    {
+      "source": "Unsold items",
+      "target": "IBX Shop"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Comments toggle"
+    },
+    {
+      "source": "Comments toggle",
+      "target": "Community Board"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Spotlight"
+    },
+    {
+      "source": "Spotlight",
+      "target": "Community Board"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "Backup"
+    },
+    {
+      "source": "Backup",
+      "target": "Inventory intake form"
+    },
+    {
+      "source": "Backup",
+      "target": "Post moderation"
+    },
+    {
+      "source": "Backup",
+      "target": "Spotlight"
+    },
+    {
+      "source": "IBX_Intake_Dashboard",
+      "target": "status.json"
+    },
+    {
+      "source": "status.json",
+      "target": "IBX News Wire"
     }
   ]
 }
