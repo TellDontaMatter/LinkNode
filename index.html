@@ -251,7 +251,7 @@ hubs.slice(0,8).forEach(n=>{const b=document.createElement("button");b.type="but
   const nm=document.createElement("span");nm.className="nm";nm.textContent=n.id;const bar=document.createElement("span");bar.className="bar";const i=document.createElement("i");i.style.width=(n.d/maxD*100)+"%";i.style.background=COL[n.c];bar.append(i);
   const c=document.createElement("span");c.className="n";c.textContent=n.d;b.append(nm,bar,c);b.addEventListener("click",()=>setFocus(focus===n?null:n,true));hubBox.append(b)});
 FAM.forEach((f,k)=>{const cnt=nodes.filter(n=>n.c===k).length;if(!cnt)return;const b=document.createElement("button");b.type="button";b.dataset.k=k;
-  const d=document.createElement("span");d.className="dot";d.style.background=COL[k];d.style.boxShadow="0 0 8px "+COL[k];const nm=document.createElement("span");nm.textContent=k<FAM.length-1?"around ""+f+""":f;const c=document.createElement("span");c.className="n";c.textContent=cnt;
+  const d=document.createElement("span");d.className="dot";d.style.background=COL[k];d.style.boxShadow="0 0 8px "+COL[k];const nm=document.createElement("span");nm.textContent=k<FAM.length-1?"around “"+f+"”":f;const c=document.createElement("span");c.className="n";c.textContent=cnt;
   b.append(d,nm,c);b.addEventListener("click",()=>{fam=fam===k?null:k;focus=null;sync();draw()});famBox.append(b)});
 function setFocus(n,center){focus=n;fam=null;if(n&&center){ox=W/2-sc*n.x;oy=H/2-sc*n.y}sync();draw()}
 function sync(){document.getElementById("sFoc").textContent=focus?(focus.id.length>22?focus.id.slice(0,21)+"…":focus.id):fam!==null?"family":"all";
